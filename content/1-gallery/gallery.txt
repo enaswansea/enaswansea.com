@@ -1,0 +1,13 @@
+Title: Gallery
+
+----
+
+Perpage: 5
+
+----
+
+Text: 
+
+----
+
+Info: 

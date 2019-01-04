@@ -28,3 +28,5 @@ Icon
 
 /assets/avatars/*
 !/assets/avatars/index.html
+
+*.php.swp

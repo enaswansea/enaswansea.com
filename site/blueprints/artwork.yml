@@ -1,0 +1,27 @@
+title: Artwork
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  title
+    
+  artworkimage:
+    label: Artwork Image
+    type: image
+    width: 1/2
+    
+  date:
+    icon: calendar
+    label: Date
+    type: date
+    format: LL
+    placeholder: Select a date…
+    default: today
+    required: true
+    width: 1/2
+  
+  text:
+    label: Description  
+    type: textarea
