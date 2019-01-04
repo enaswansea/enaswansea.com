@@ -1,0 +1,201 @@
+$media-wide: "(min-width: 1025px)";
+$media-narrow: "(max-width: 1025px)";
+
+$orange: rgb(255, 73, 27);
+
+$title_height: 30px;
+
+/********* LAYOUT **********/
+
+
+
+@media #{$media-wide} {
+
+    #content {
+        padding-top: 3vw;
+        padding-left: 5vw;
+        display: flex;
+        flex-direction: row;
+        & > * {
+        }
+    }
+
+    main {
+    }
+
+}
+
+
+
+/********** STYLING **********/
+
+html {
+    font-size: 100%;
+    background-color: rgb(94, 94, 94);
+    color: #FFF;
+    font-family: "Karla", "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+
+
+    @media #{$media-wide} {
+    }
+    @media #{$media-narrow} {
+    }
+
+}
+
+a {
+    color: rgb(204, 204, 204);
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+img {
+    max-width: 100%;
+}
+
+main {
+    margin-top: $title-height;
+    @media #{$media-wide} {
+        max-width: 70vw;
+    }
+    @media #{$media-narrow} {
+    }
+}
+
+
+#header {
+    @media #{$media-wide} {
+    }
+    @media #{$media-narrow} {
+    }
+}
+
+#site_title {
+    font-weight: bold;
+    text-align: left;
+    height: $title_height;
+}
+
+
+
+
+
+
+
+/************** NAV ************/
+
+nav {
+    @media #{$media-wide} {
+        max-width: 30vw;
+        width: 300px;
+    }
+}
+
+
+#menus {
+
+    @media #{$media-wide} {
+        display: flex;
+        flex-direction: row;
+        
+        & > * {
+        }
+
+
+    }
+    @media #{$media-narrow} {
+        width: 100%;
+    }
+}
+
+
+.menu, .submenu {
+    list-style: none;
+    font-style: italic;
+    font-size: 0.9rem;
+    line-height: 1.3rem;
+    padding: 0px;
+    text-transform: lowercase;
+    margin: 0px;
+}
+
+
+#main_menu {
+
+    .menu-item {
+        &.is-active * {
+            color: $orange !important;
+            font-weight: bold;
+        }
+    }
+
+    @media #{$media-wide} {
+        text-align: right;
+        width: 180px;
+    }
+    @media #{$media-narrow} {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        .menu-item {
+            display: inline;
+            &:not(:last-child):after {
+                content: " "
+            }
+            padding: 0px 11px;
+        }
+    }
+}
+
+
+.submenu.gallery_years {
+    display: none;
+    .active {
+        color: $orange;
+        font-weight: bold;
+    }
+
+    body.gallery & {
+        display: flex;
+    }
+
+    @media #{$media-wide} {
+        text-align: center;
+        flex-direction: column;
+        width: 80px;
+    }
+    @media #{$media-narrow} {
+        width: 100%;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        li {
+            display: inline;
+            &:not(:last-child):after {
+                content: "/"
+            }
+        }
+    }
+}
+
+
+/************* ARTWORK *************/
+
+
+.artwork {
+
+    .artwork_image img {
+        width: 100% !important;
+    }
+
+    .artwork_text {
+        font-size: 0.8rem;
+        text-align: right;
+    }
+
+    margin-bottom: 100px;
+}

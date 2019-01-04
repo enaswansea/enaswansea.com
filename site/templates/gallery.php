@@ -1,9 +1,8 @@
 <?php snippet('header') ?>
 
-
-  <?php 
-$artworks = $page->children()
-                 ->sortBy('date', 'desc');
+<?php 
+    $artworks = $page->children()
+                 ->sortBy('date')
                  ->visible()
                  ->flip();
 
@@ -12,60 +11,39 @@ $artworks = $page->children()
     }
 
 if($tag = param('year')) {
+    $thisyear = param('year');
+
     $artworks = $artworks->filter(function($child) {
-            return $child->date('Y') === param('year');
+        return $child->date('Y') === param('year');
     });
+} else {
+    $artworks = new Collection();
+    // show nothing 
 }
 
 ?>
 
-<?php
-//$years = page('gallery')->children()->groupBy('date');
-$years = page('gallery')->children()->pluck('date');
-print_r($years);
-$years = array_map(function($item) {
-  return date('Y', $item);
-}, $years);
-print_r($years);
-?>
 
   <main class="main" role="main">
 
-    <header class="wrap">
-      <h1><?= $page->title()->html() ?></h1>
-      <hr />
+    <header>
     </header>
 
-    <section class="wrap">
+    <section>
       <?php if($artworks->count()): ?>
         <?php foreach($artworks as $artwork): ?>
 
-          <artwork class="artwork index">
+          <div class="artwork index">
 
-            <header class="artwork-header">
-              <h2 class="artwork-title">
-                <?= $artwork->title()->html() ?>
-              </h2>
-
-            </header>
-
-            <?php snippet('coverimage', $artwork) ?>
-
-            <?= $artwork->image() ?>
-            <div class="text">
-              <p>
+            <div class="artwork_image"><?= $artwork->image() ?></div>
+            <div class="artwork_text">
+                <i><?= $artwork->title()->html() ?></i> | 
                 <?= $artwork->text()->html() ?>
-                  <p class="artwork-date"><?= $artwork->date('F jS, Y') ?></p>
-              </p>
             </div>
 
-          </artwork>
-
-          <hr />
+          </div >
 
         <?php endforeach ?>
-      <?php else: ?>
-        <p>This blog does not contain any artworks yet.</p>
       <?php endif ?>
     </section>
 

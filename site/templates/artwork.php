@@ -7,7 +7,6 @@
       <div class="intro text">
         <?= $page->year() ?>
       </div>
-      <hr />
     </header>
     
     <div class="text wrap">

@@ -8,19 +8,24 @@
   <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
   <meta name="description" content="<?= $site->description()->html() ?>">
 
-  <?= css('assets/css/index.css') ?>
+
+<link href="https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i" rel="stylesheet">
+
+
+    <?php snippet('scss') ?>
+  <?= css('assets/css/default.css') ?>
 
 </head>
-<body>
+<body class="<?= $page->id() ?>">
 
-  <header class="header wrap wide" role="banner">
-    <div class="grid">
+<header id="header"></header>
 
-      <div class="branding column">
+<div id="content">
+
+    <nav>
+      <div id="site_title">
         <a href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a>
       </div>
 
-      <?php snippet('menu') ?>
-
-    </div>
-  </header>
+        <?php snippet('menu') ?>
+    </nav>

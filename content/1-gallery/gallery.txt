@@ -1,8 +1,4 @@
-Title: Gallery
-
-----
-
-Perpage: 5
+Title: Selected Projects and Works
 
 ----
 
