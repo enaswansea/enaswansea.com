@@ -8,13 +8,18 @@ sections:
     text: >
       To add new artworks, <b>Add</b> button to the left to create a new artwork. 
 
+  sexlected:
+    type: pages
+    headline: Selected Artworkkk
+    #    parent: page.children.filterBy('featured', false)
+
   published:
     headline: Published Artwork
     type: pages
     status: listed
     templates: artwork
     sort: flip
-    num: date
+    info: "{{ page.artwork_year }}"
 
   drafts:
     headline: Drafts

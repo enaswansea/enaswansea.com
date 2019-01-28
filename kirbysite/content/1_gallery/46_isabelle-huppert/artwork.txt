@@ -1,7 +1,3 @@
-Title: Isabelle Huppert
-
-----
-
 Artwork-image: 
 
 - 123isabellehuppert150.jpg
@@ -20,9 +16,8 @@ Artwork-year: 2010
 
 ----
 
-Selected: false
+Selected: true
 
 ----
 
 Drupal-url: /artwork/isabelle-huppert
-

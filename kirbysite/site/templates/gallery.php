@@ -1,26 +1,40 @@
 <?php snippet('header') ?>
 
 <?php 
+
     $artworks = $page->children()
                  ->sortBy('date')
                  ->visible()
-                 ->flip();
+                 ->flip(); 
 
     if($tag = param('tag')) {
       $artworks = $artworks ->filterBy('tags', $tag, ',');
     }
 
-if($tag = param('year')) {
-    $thisyear = param('year');
+    if($tag = param('selected')) {
+        $artworks = $artworks->filterBy('Selected', 'true');
+    } 
 
-    $artworks = $artworks->filter(function($child) {
-        return date('Y', strtotime($child->date())) === param('year');
-    });
-} else {
-    $artworks = new Collection();
-    // show nothing 
-}
+ 
+    if($tag = param('year')) {
+        $thisyear = param('year');
 
+        $artworks = $artworks->filter(function($child) {
+            return $child->artwork_year() == param('year');
+        });
+    } 
+
+    if($tag = param('selected-works')) {
+        $thisyear = param('year');
+
+        $artworks = $artworks->filter(function($child) {
+            return $child->artwork_year() == param('year');
+        });
+    } 
+
+    if(sizeof(params()) == 0) {
+        $artworks = new Collection(); // by default, show nothing
+    }
 
 ?>
 
@@ -39,7 +53,7 @@ if($tag = param('year')) {
             <div class="artwork_image"><?= $artwork->image() ?></div>
             <div class="artwork_text">
                 <i><?= $artwork->title()->html() ?></i> | 
-                <?= $artwork->text()->html() ?>
+                <?= $artwork->artwork_description()->html() ?>
             </div>
 
           </div >
