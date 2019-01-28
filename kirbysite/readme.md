@@ -1,4 +1,4 @@
-# Kirby Starterkit
+# Kirby Plainkit
 
 Kirby is a file-based CMS.
 Easy to setup. Easy to use. Flexible as hell.
@@ -17,11 +17,11 @@ You can purchase your Kirby license at
 A Kirby license is valid for a single domain. You can find
 Kirby's license agreement here: <https://getkirby.com/license>
 
-## The Starterkit
+## The Plainkit
 
-Kirby's Starterkit comes with a small demo website and a fully
-configured panel. Feel free to modify it and play with it as
-much as you like.
+Kirby's Plainkit is the most minimal setup you can get started with.
+It does not include any content, styles or other kinds of decoration,
+so it's perfect to use this as a starting point for your own project.
 
 ## The Panel
 

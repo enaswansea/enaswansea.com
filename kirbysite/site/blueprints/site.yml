@@ -1,16 +1,3 @@
 title: Site
-
-columns:
-  - width: 1/2
-    sections:
-      albums: sections/albums
-  - width: 1/2
-    sections:
-      notes: sections/notes
-      pages:
-        type: pages
-        create: default
-        template:
-          - about
-          - home
-          - default
+preset: pages
+unlisted: true
