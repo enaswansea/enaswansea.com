@@ -14,12 +14,13 @@ if($tag = param('year')) {
     $thisyear = param('year');
 
     $artworks = $artworks->filter(function($child) {
-        return $child->date('Y') === param('year');
+        return date('Y', strtotime($child->date())) === param('year');
     });
 } else {
     $artworks = new Collection();
     // show nothing 
 }
+
 
 ?>
 

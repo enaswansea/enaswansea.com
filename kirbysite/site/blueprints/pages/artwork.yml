@@ -4,7 +4,7 @@ pages: false
 
 sections:
   images:
-    headline: Image(s)
+    headline: Uploaded Images
     type: files
     template: gallery
     limit: 1
@@ -15,6 +15,13 @@ sections:
       title:
         label: Artwork Title
         type:  title
+
+      artwork_image:
+        label: Display Artwork Image (Choose 1)
+        type: files
+        help: Choose 1 image
+        width: 1/2
+        limit: 1
 
       artwork_reference_number:
         label: Artwork Reference Number
@@ -28,12 +35,27 @@ sections:
         width: 1/2
         required: true
 
-      date:
-        icon: calendar
-        label: Artwork Date
-        type: date
-        format: LL
-        placeholder: Select a date…
-        default: today
+      artwork_year:
+        label: Artwork Year
+        type: number
+        default: 2019
         required: true
         width: 1/2
+
+      selected:
+        label: Toggle
+        type: toggle
+        text: Show in Selected Works?
+
+      line:
+        type: line
+
+      info:
+        label: WARNING
+        type: info
+        text: Please do not edit the information below!
+
+      drupal_url:
+        label: URL from Drupal (DO NOT EDIT)
+        type: text
+

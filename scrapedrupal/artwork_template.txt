@@ -1,0 +1,28 @@
+Title: $title
+
+----
+
+Artwork-image: 
+
+- $artwork_basename
+
+----
+
+Artwork-reference-number: $artwork_reference_number
+
+----
+
+Artwork-description: $artwork_description
+
+----
+
+Artwork-year: $artwork_year
+
+----
+
+Selected: $selected_bool
+
+----
+
+Drupal-url: $drupal_url
+
