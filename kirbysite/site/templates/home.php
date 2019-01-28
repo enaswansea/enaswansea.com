@@ -1,18 +1,29 @@
 <?php snippet('header') ?>
 
-  <main class="main" role="main">
-    
-    <header class="wrap">
-      <div class="intro text">
-        <?= $page->intro()->kirbytext() ?>
-      </div>
-      <hr />
-    </header>
+<main>
+  <header class="intro">
+    <h1><?= $site->title() ?></h1>
+  </header>
 
-    <div class="text wrap">
-      <?= $page->text()->kirbytext() ?>
-    </div>
-  
-  </main>
+  <ul class="grid">
+    <?php foreach (page('photography')->children()->listed() as $album): ?>
+    <li>
+      <a href="<?= $album->url() ?>">
+        <figure>
+          <?php if ($cover = $album->cover()): ?>
+          <?= $cover->resize(1024, 1024) ?>
+          <?php endif ?>
+          <figcaption>
+            <span>
+              <span class="example-name"><?= $album->title() ?></span>
+            </span>
+          </figcaption>
+        </figure>
+      </a>
+    </li>
+    <?php endforeach ?>
+  </ul>
+
+</main>
 
 <?php snippet('footer') ?>

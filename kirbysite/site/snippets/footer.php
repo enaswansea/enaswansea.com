@@ -1,19 +1,16 @@
-  </div id="content"> 
+  </div>
 
-  <footer class="footer cf" role="contentinfo">
-    <div class="wrap wide">
+  <footer class="footer">
+    <a href="<?= url() ?>">&copy; <?= date('Y') ?> / <?= $site->title() ?></a>
 
-    <p class="footer-copyright">
-    <?php
-        // Parse Kirbytext to support dynamic year,
-        // but remove all HTML like paragraph tags:
-        echo html::decode($site->copyright()->html())
-      ?></p>
-    
-    </div>
+    <?php if ($about = page('about')): ?>
+    <nav class="social">
+      <?php foreach ($about->social()->toStructure() as $social): ?>
+      <a href="<?= $social->url() ?>"><?= $social->platform() ?></a>
+      <?php endforeach ?>
+    </nav>
+    <?php endif ?>
   </footer>
-
-  <?php snippet('browsersync') ?>
 
 </body>
 </html>

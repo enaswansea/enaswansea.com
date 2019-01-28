@@ -1,33 +1,25 @@
 <!doctype html>
-<html lang="<?= site()->language() ? site()->language()->code() : 'en' ?>">
+<html lang="en">
 <head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-  <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
-  <meta name="description" content="<?= $site->description()->html() ?>">
+  <title><?= $site->title() ?> | <?= $page->title() ?></title>
 
-
-<link href="https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i" rel="stylesheet">
-
-
-    <?php snippet('scss') ?>
-  <?= css('assets/css/default.css') ?>
+  <?= css(['assets/css/index.css', '@auto']) ?>
 
 </head>
-<body class="<?= $page->id() ?>">
+<body>
 
-<header id="header"></header>
+  <div class="page">
+    <header class="header">
+      <a class="logo" href="<?= $site->url() ?>"><?= $site->title() ?></a>
 
-<div id="content">
+      <nav id="menu" class="menu">
+        <?php foreach ($site->children()->listed() as $item): ?>
+        <?= $item->title()->link() ?>
+        <?php endforeach ?>
+      </nav>
+    </header>
 
-    <nav>
-      <div id="site_title">
-        <a href="<?= url() ?>" rel="home">
-            <img id="logo_img" src="<?= kirby()->urls()->assets() ?>/images/ena_swansea_logo.svg" alt="">
-        </a>
-      </div>
-
-        <?php snippet('menu') ?>
-    </nav>
