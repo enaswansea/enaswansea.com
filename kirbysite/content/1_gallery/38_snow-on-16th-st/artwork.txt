@@ -1,0 +1,28 @@
+Title: snow on 16th St
+
+----
+
+Artwork-image: 
+
+- snowon16thstreetadjforwebsite.jpg
+
+----
+
+Artwork-reference-number: 136
+
+----
+
+Artwork-description: 93.6 x 144 in | 238 x 366 cm
+
+----
+
+Artwork-year: 2011
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/snow-on-16th-st
+

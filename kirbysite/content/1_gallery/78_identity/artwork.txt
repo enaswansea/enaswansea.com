@@ -1,0 +1,28 @@
+Title: identity
+
+----
+
+Artwork-image: 
+
+- 90identity150.jpg
+
+----
+
+Artwork-reference-number: 88
+
+----
+
+Artwork-description: 60 x 96 in (152.40 x 243.84 cm)
+
+----
+
+Artwork-year: 2006
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/identity
+

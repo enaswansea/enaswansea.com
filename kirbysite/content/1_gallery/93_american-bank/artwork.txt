@@ -1,0 +1,28 @@
+Title: American bank
+
+----
+
+Artwork-image: 
+
+- 79americanbank150.jpg
+
+----
+
+Artwork-reference-number: 77
+
+----
+
+Artwork-description: 84 x 114 in (213.36 x 289.56 cm)
+
+----
+
+Artwork-year: 2006
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/american-bank
+

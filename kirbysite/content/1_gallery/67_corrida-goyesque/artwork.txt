@@ -1,0 +1,28 @@
+Title: corrida Goyesque
+
+----
+
+Artwork-image: 
+
+- 6corridagoyesque.jpg
+
+----
+
+Artwork-reference-number: 125
+
+----
+
+Artwork-description: 148 x 295 feet (45 x 90 meters)
+
+----
+
+Artwork-year: 2010
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/corrida-goyesque
+

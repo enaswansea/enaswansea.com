@@ -1,0 +1,28 @@
+Title: girl in a club
+
+----
+
+Artwork-image: 
+
+- 193girlinaclubforwebsite.jpg
+
+----
+
+Artwork-reference-number: 193
+
+----
+
+Artwork-description: 36 x 48 in | 91.5 x 122 cm
+
+----
+
+Artwork-year: 2016
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/girl-in-a-club
+

@@ -1,0 +1,28 @@
+Title: chaos
+
+----
+
+Artwork-image: 
+
+- 208chaosforwebsite.jpg
+
+----
+
+Artwork-reference-number: 208
+
+----
+
+Artwork-description: 40.25 x 40.25 in | 102 x 102 cm
+
+----
+
+Artwork-year: 2017
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/chaos
+

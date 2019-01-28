@@ -1,0 +1,28 @@
+Title: Kembra in colors
+
+----
+
+Artwork-image: 
+
+- 140kembraincolorsforwebsite.jpg
+
+----
+
+Artwork-reference-number: 140
+
+----
+
+Artwork-description: 48 x 96 inches | 122 x 244 cm
+
+----
+
+Artwork-year: 2011
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/kembra-in-colors
+

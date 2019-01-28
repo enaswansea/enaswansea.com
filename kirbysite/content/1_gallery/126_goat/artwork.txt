@@ -1,0 +1,28 @@
+Title: goat
+
+----
+
+Artwork-image: 
+
+- 138goatadjmoreforwebsite.jpg
+
+----
+
+Artwork-reference-number: 138
+
+----
+
+Artwork-description: oil on board, approx. 40 x 32 inches | 102 x 81 cm
+
+----
+
+Artwork-year: 2011
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/goat
+

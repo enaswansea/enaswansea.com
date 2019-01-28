@@ -1,0 +1,28 @@
+Title: backlit waves of Los Angeles
+
+----
+
+Artwork-image: 
+
+- 144backlitwavesoflosangelesdraft.jpg
+
+----
+
+Artwork-reference-number: 144
+
+----
+
+Artwork-description: 90 x 180 in | 229 x 457 cm
+
+----
+
+Artwork-year: 2012
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/backlit-waves-of-los-angeles
+

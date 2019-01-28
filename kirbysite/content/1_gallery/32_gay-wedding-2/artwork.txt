@@ -1,0 +1,28 @@
+Title: gay wedding 2
+
+----
+
+Artwork-image: 
+
+- 58gaywedding2.jpg
+
+----
+
+Artwork-reference-number: 58
+
+----
+
+Artwork-description: 72 x 84 in (182.9 x 213.4 cm)
+
+----
+
+Artwork-year: 2005
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/gay-wedding-2
+

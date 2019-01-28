@@ -1,0 +1,28 @@
+Title: oranges
+
+----
+
+Artwork-image: 
+
+- 165oranges.jpg
+
+----
+
+Artwork-reference-number: 165
+
+----
+
+Artwork-description: 66 x 68 in | 168 x 173 cm
+
+----
+
+Artwork-year: 2013
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/oranges
+

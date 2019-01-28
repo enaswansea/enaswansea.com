@@ -1,0 +1,28 @@
+Title: wave
+
+----
+
+Artwork-image: 
+
+- 204waveadjforwebsite.jpg
+
+----
+
+Artwork-reference-number: 204
+
+----
+
+Artwork-description: 90 x 114 in | 229 x 290 cm
+
+----
+
+Artwork-year: 2016
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/wave-0
+

@@ -1,0 +1,28 @@
+Title: bee rider
+
+----
+
+Artwork-image: 
+
+- 65beerider.jpg
+
+----
+
+Artwork-reference-number: 65
+
+----
+
+Artwork-description: 72 x 96 in (182.9 x 234.8 cm)
+
+----
+
+Artwork-year: 2005
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/bee-rider
+

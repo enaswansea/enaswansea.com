@@ -1,0 +1,28 @@
+Title: theory of relativity
+
+----
+
+Artwork-image: 
+
+- 51theoryofrelativity150.jpg
+
+----
+
+Artwork-reference-number: 50
+
+----
+
+Artwork-description: 78 x 120 in(198.12 x 304.8 cm)
+
+----
+
+Artwork-year: 2004
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/theory-of-relativity
+

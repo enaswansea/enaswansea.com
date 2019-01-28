@@ -1,0 +1,28 @@
+Title: rusty garbage
+
+----
+
+Artwork-image: 
+
+- 179rustygarbageforwebsite.png
+
+----
+
+Artwork-reference-number: 179
+
+----
+
+Artwork-description: 72 x 60 in | 183 x 152 cm
+
+----
+
+Artwork-year: 2014
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/rusty-garbage-0
+

@@ -1,0 +1,28 @@
+Title: world wide web
+
+----
+
+Artwork-image: 
+
+- 25worldwideweb150.jpg
+
+----
+
+Artwork-reference-number: 24
+
+----
+
+Artwork-description: 78 x 120 in (198 x 305 cm)
+
+----
+
+Artwork-year: 2004
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/world-wide-web
+

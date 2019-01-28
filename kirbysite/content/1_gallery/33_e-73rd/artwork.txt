@@ -1,0 +1,28 @@
+Title: E 73rd
+
+----
+
+Artwork-image: 
+
+- 78e73rdadjusted150.jpg
+
+----
+
+Artwork-reference-number: 76
+
+----
+
+Artwork-description: 118 x 80 in (300 x 203.2 cm)
+
+----
+
+Artwork-year: 2006
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/e-73rd
+

@@ -1,0 +1,28 @@
+Title: watching TV
+
+----
+
+Artwork-image: 
+
+- 87watchingtv150.jpg
+
+----
+
+Artwork-reference-number: 85
+
+----
+
+Artwork-description: 72 x 96 in (182.88 x 243.84 cm)
+
+----
+
+Artwork-year: 2006
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/watching-tv
+

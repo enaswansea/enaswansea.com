@@ -1,0 +1,28 @@
+Title: busy night
+
+----
+
+Artwork-image: 
+
+- 69busynight150.jpg
+
+----
+
+Artwork-reference-number: 67
+
+----
+
+Artwork-description: 36 x 60 in (91.4 x 152.4 cm)
+
+----
+
+Artwork-year: 2005
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/busy-night
+

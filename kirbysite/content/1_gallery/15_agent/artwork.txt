@@ -1,0 +1,28 @@
+Title: agent
+
+----
+
+Artwork-image: 
+
+- 51agent.jpg
+
+----
+
+Artwork-reference-number: 51
+
+----
+
+Artwork-description: 96 x 60 in (244 x 152.4 cm)
+
+----
+
+Artwork-year: 2004
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/agent
+

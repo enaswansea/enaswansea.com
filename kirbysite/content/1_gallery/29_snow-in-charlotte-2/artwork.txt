@@ -1,0 +1,28 @@
+Title: snow in Charlotte
+
+----
+
+Artwork-image: 
+
+- snowincharlotteforwebsite.jpg
+
+----
+
+Artwork-reference-number: 218
+
+----
+
+Artwork-description: 60.25 x 48.25 | 153 x 123 cm
+
+----
+
+Artwork-year: 2018
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/snow-in-charlotte-2
+

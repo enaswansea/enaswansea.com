@@ -1,0 +1,28 @@
+Title: Casey Spooner
+
+----
+
+Artwork-image: 
+
+- 89caseyspooner150.jpg
+
+----
+
+Artwork-reference-number: 87
+
+----
+
+Artwork-description: 84 x 60 in (213.36 x 152.40 cm)
+
+----
+
+Artwork-year: 2006
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/casey-spooner
+

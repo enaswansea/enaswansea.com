@@ -1,0 +1,28 @@
+Title: don't bother me with that ocean
+
+----
+
+Artwork-image: 
+
+- 151dontbothermewiththatocean.png
+
+----
+
+Artwork-reference-number: 151
+
+----
+
+Artwork-description: 90 x 108 in | 229 x 274 cm
+
+----
+
+Artwork-year: 2012
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/dont-bother-me-with-that-ocean
+

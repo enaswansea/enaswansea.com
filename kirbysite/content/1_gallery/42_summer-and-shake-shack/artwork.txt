@@ -1,0 +1,28 @@
+Title: summer and shake shack
+
+----
+
+Artwork-image: 
+
+- 190shakeshackinsummer.jpg
+
+----
+
+Artwork-reference-number: 190
+
+----
+
+Artwork-description: 30.25 x 20.25 | 77 x 51 cm
+
+----
+
+Artwork-year: 2015
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/summer-and-shake-shack
+

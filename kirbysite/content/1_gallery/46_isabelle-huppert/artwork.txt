@@ -1,0 +1,28 @@
+Title: Isabelle Huppert
+
+----
+
+Artwork-image: 
+
+- 123isabellehuppert150.jpg
+
+----
+
+Artwork-reference-number: 12
+
+----
+
+Artwork-description: 60 x 48 in (152.4 x 121.9 cm)
+
+----
+
+Artwork-year: 2010
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/isabelle-huppert
+

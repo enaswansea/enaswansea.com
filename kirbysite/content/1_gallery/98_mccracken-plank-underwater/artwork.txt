@@ -1,0 +1,28 @@
+Title: McCracken plank underwater
+
+----
+
+Artwork-image: 
+
+- mccrackenplankunderwater.jpg
+
+----
+
+Artwork-reference-number: 139
+
+----
+
+Artwork-description: 70 x 40 inches | 178 x 102 cm
+
+----
+
+Artwork-year: 2011
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/mccracken-plank-underwater
+

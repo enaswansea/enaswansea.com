@@ -1,0 +1,28 @@
+Title: snow in Connecticut
+
+----
+
+Artwork-image: 
+
+- 226snowinconnecticutforwebsite.jpg
+
+----
+
+Artwork-reference-number: 226
+
+----
+
+Artwork-description: 72 x 48 in | 183 x 122 cm
+
+----
+
+Artwork-year: 2019
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/snow-in-connecticut
+
