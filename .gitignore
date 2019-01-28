@@ -31,3 +31,6 @@ Icon
 
 *.php.swp
 *.swp
+
+downloaded_images/
+generated_pages/
