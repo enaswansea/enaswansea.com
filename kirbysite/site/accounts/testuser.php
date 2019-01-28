@@ -7,8 +7,8 @@ email: test@example.com
 language: en
 role: admin
 history:
+  - gallery/cyberworlds
   - bio
   - home
   - gallery
-  - gallery/cyberworlds
   - gallery/magic-mountains
