@@ -1,0 +1,28 @@
+Title: bird thoughts
+
+----
+
+Artwork-image: 
+
+- 142birdthoughts.jpg
+
+----
+
+Artwork-reference-number: 142
+
+----
+
+Artwork-description: 60 x 48 in | 152 x 122 cm
+
+----
+
+Artwork-year: 2012
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/bird-thoughts
+

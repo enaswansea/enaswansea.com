@@ -1,0 +1,28 @@
+Title: self love
+
+----
+
+Artwork-image: 
+
+- 75selflove150.jpg
+
+----
+
+Artwork-reference-number: 73
+
+----
+
+Artwork-description: 48 x 60 in (121.92 x 152.4 cm)
+
+----
+
+Artwork-year: 2006
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/self-love
+

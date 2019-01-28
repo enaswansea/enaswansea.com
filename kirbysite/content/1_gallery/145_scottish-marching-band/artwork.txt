@@ -1,0 +1,28 @@
+Title: Scottish marching band
+
+----
+
+Artwork-image: 
+
+- 215scottishmarchingbandadjforwebsite.jpg
+
+----
+
+Artwork-reference-number: 215
+
+----
+
+Artwork-description: 90 x 114 inches | 229 x 290 cm
+
+----
+
+Artwork-year: 2018
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/scottish-marching-band
+

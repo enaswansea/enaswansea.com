@@ -1,0 +1,28 @@
+Title: lie down I think I want you
+
+----
+
+Artwork-image: 
+
+- 27liedownithinkiwantyou150.jpg
+
+----
+
+Artwork-reference-number: 26
+
+----
+
+Artwork-description: 60 x 96 in (152.4 x 243.8 cm)
+
+----
+
+Artwork-year: 2004
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/lie-down-i-think-i-want-you
+

@@ -1,0 +1,28 @@
+Title: Princess Elisabeth
+
+----
+
+Artwork-image: 
+
+- 82princesselisabeth150.jpg
+
+----
+
+Artwork-reference-number: 80
+
+----
+
+Artwork-description: 114 x 84 (289.56 x 213.36)
+
+----
+
+Artwork-year: 2006
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/princess-elisabeth
+

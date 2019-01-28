@@ -1,0 +1,28 @@
+Title: pouring water into water
+
+----
+
+Artwork-image: 
+
+- 77pouringwaterintowater150.jpg
+
+----
+
+Artwork-reference-number: 75
+
+----
+
+Artwork-description: 92 x 76 in (234 x 193 cm)
+
+----
+
+Artwork-year: 2006
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/pouring-water-into-water
+

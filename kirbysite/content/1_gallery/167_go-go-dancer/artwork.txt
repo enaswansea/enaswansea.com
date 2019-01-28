@@ -1,0 +1,28 @@
+Title: go go dancer
+
+----
+
+Artwork-image: 
+
+- 84gogodancer150.jpg
+
+----
+
+Artwork-reference-number: 82
+
+----
+
+Artwork-description: 60 x 48 in (152.40 x 121.92 cm)
+
+----
+
+Artwork-year: 2006
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/go-go-dancer
+

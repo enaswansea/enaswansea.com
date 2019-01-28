@@ -1,0 +1,28 @@
+Title: cardboard legs
+
+----
+
+Artwork-image: 
+
+- 197cardboardlegsforwebsite.jpg
+
+----
+
+Artwork-reference-number: 197
+
+----
+
+Artwork-description: 95 x 110 in | 241 x 280 cm
+
+----
+
+Artwork-year: 2016
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/cardboard-legs
+

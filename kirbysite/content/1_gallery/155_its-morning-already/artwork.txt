@@ -1,0 +1,28 @@
+Title: it's morning already?
+
+----
+
+Artwork-image: 
+
+- 176itsmorningalready.png
+
+----
+
+Artwork-reference-number: 176
+
+----
+
+Artwork-description: 60 x 72 in | 152 x 183 cm
+
+----
+
+Artwork-year: 2014
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/its-morning-already
+

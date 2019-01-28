@@ -1,0 +1,28 @@
+Title: fiancelles
+
+----
+
+Artwork-image: 
+
+- 43fiancelles150.jpg
+
+----
+
+Artwork-reference-number: 42
+
+----
+
+Artwork-description: 60 x 84 in (152.4 x 213.3 cm)
+
+----
+
+Artwork-year: 2004
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/fiancelles
+

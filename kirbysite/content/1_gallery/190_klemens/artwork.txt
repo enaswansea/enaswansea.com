@@ -1,0 +1,28 @@
+Title: klemens
+
+----
+
+Artwork-image: 
+
+- 43klemens.jpg
+
+----
+
+Artwork-reference-number: 43
+
+----
+
+Artwork-description: 60 x 36 in (152.4 x 91.4 cm)
+
+----
+
+Artwork-year: 2004
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/klemens
+
