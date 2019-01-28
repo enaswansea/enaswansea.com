@@ -1,3 +1,7 @@
+Title: into the tress
+
+----
+
 Artwork-image: 
 
 - 228intothetreesadjforwebsite.jpg
@@ -16,8 +20,9 @@ Artwork-year: 2019
 
 ----
 
-Selected: true
+Selected: false
 
 ----
 
 Drupal-url: /artwork/into-the-tress
+

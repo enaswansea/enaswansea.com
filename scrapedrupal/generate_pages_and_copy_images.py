@@ -34,4 +34,7 @@ with open(filename, encoding='utf-8-sig') as csvDataFile:
             thisfile.write(artwork_template.substitute(row))
             copyfile(downloaded_images_location + row["artwork_basename"], directory + "/" + row["artwork_basename"])
 
+        with open(directory + "/" + row["artwork_basename"] + ".txt", "w") as thisfile:
+            thisfile.write("Template: gallery")
+
 
