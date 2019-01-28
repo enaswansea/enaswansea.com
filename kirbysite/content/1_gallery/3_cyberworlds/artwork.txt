@@ -1,0 +1,33 @@
+Title: Cyberworlds
+
+----
+
+Artworkimage: cybersym_installation.jpg
+
+----
+
+Date: 2019-01-01
+
+----
+
+Text: Lovely cyberworlds!
+
+----
+
+Artwork-title: Cyberworlds
+
+----
+
+Artwork-reference-number: 432
+
+----
+
+Artwork-image: cybersym_installation.jpg
+
+----
+
+Artwork-description: Testing!
+
+----
+
+Artwork-date: 2019-01-28

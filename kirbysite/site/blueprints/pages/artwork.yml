@@ -1,0 +1,39 @@
+title: Artwork
+
+pages: false
+
+sections:
+  images:
+    headline: Image(s)
+    type: files
+    template: gallery
+    limit: 1
+
+  content:
+    type: fields
+    fields:
+      title:
+        label: Artwork Title
+        type:  title
+
+      artwork_reference_number:
+        label: Artwork Reference Number
+        type: number
+        width: 1
+        required: true
+        
+      artwork_description:
+        label: Artwork Description
+        type: textarea
+        width: 1/2
+        required: true
+
+      date:
+        icon: calendar
+        label: Artwork Date
+        type: date
+        format: LL
+        placeholder: Select a date…
+        default: today
+        required: true
+        width: 1/2

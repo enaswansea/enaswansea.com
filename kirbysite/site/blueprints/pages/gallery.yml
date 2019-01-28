@@ -1,0 +1,25 @@
+title: Gallery 
+
+sections:
+
+  info:
+    label: Hint
+    type: info
+    text: >
+      To add new artworks, <b>Add</b> button to the left to create a new artwork. 
+
+  published:
+    headline: Published Artwork
+    type: pages
+    status: listed
+    templates: artwork
+    sort: flip
+    num: date
+
+  drafts:
+    headline: Drafts
+    type: pages
+    status: draft
+    templates: artwork
+
+   

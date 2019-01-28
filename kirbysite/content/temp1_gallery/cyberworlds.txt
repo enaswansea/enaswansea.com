@@ -1,0 +1,17 @@
+Artwork-title: Cyberworlds
+
+----
+
+Artwork-reference-number: 432
+
+----
+
+Artwork-image: cybersym_installation.jpg
+
+----
+
+Artwork-description: Testing!
+
+----
+
+Artwork-date: 2019-01-28
