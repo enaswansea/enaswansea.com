@@ -24,7 +24,9 @@
 
     <nav>
       <div id="site_title">
-        <a href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a>
+        <a href="<?= url() ?>" rel="home">
+            <img id="logo_img" src="<?= kirby()->urls()->assets() ?>/images/ena_swansea_logo.svg" alt="">
+        </a>
       </div>
 
         <?php snippet('menu') ?>

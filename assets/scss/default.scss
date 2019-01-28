@@ -76,7 +76,18 @@ main {
 #site_title {
     font-weight: bold;
     text-align: left;
-    height: $title_height;
+    @media #{$media-wide} {
+        height: $title_height;
+        width: 180px;
+        text-align: right;
+    }
+    @media #{$media-narrow} {
+        text-align: center;
+    }
+}
+
+#logo_img {
+    max-width: 150px;
 }
 
 

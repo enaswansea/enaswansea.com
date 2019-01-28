@@ -13,5 +13,7 @@
     </div>
   </footer>
 
+  <?php snippet('browsersync') ?>
+
 </body>
 </html>
