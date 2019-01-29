@@ -21,13 +21,12 @@
       foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
         <figure>
           <img src="<?= $image->url() ?>" alt="<?= $page->title()->html() ?>" />
+          <div class="caption"><?= $image->caption() ?></div>
         </figure>
       <?php endforeach ?>
       
     </div>
     
-    <?php snippet('prevnext') ?>
-
   </main>
 
 <?php snippet('footer') ?>

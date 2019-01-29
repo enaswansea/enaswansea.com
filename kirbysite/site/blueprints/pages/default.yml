@@ -6,3 +6,9 @@ fields:
     type: textarea
     size: large
 
+  images:
+    headline: Uploaded Images
+    type: files
+    template: files
+    limit: 1
+

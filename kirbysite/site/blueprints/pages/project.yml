@@ -1,21 +1,22 @@
 title: Project
 
-files:
-  sortable: true
+sections:
+  images:
+    headline: Project Images
+    type: files
+    template: projectimage
+    sortable: true 
 
-pages: false
+  content:
+    type: fields
+    fields:
+      title:
+        label: Title
+        type:  text
+        width: 3/4
 
-fields:
-  title:
-    label: Title
-    type:  text
-    width: 3/4
+      text:
+        label: Text
+        type:  textarea
 
-  year:
-    label: Year
-    type:  text
-    width: 1/4
-
-  text:
-    label: Text
-    type:  textarea
+ 

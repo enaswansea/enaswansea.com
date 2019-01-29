@@ -73,6 +73,12 @@ main {
     }
 }
 
+header {
+    h1 {
+        margin-top: 0px;
+    }
+}
+
 #site_title {
     font-weight: bold;
     text-align: left;
@@ -101,7 +107,6 @@ main {
 nav {
     @media #{$media-wide} {
         max-width: 30vw;
-        width: 300px;
     }
 }
 
@@ -146,6 +151,7 @@ nav {
     @media #{$media-wide} {
         text-align: right;
         width: 180px;
+        flex-shrink: 0;
     }
     @media #{$media-narrow} {
         width: 100%;
@@ -163,8 +169,7 @@ nav {
 }
 
 
-.submenu.gallery_years {
-    display: none;
+.submenu {
     .active {
         color: $orange;
         font-weight: bold;
@@ -177,7 +182,6 @@ nav {
     @media #{$media-wide} {
         text-align: center;
         flex-direction: column;
-        width: 80px;
     }
     @media #{$media-narrow} {
         width: 100%;
@@ -193,6 +197,17 @@ nav {
     }
 }
 
+.submenu.gallery_years {
+    @media #{$media-wide} {
+        width: 80px;
+    }
+}
+
+.submenu.exhibitions {
+    @media #{$media-wide} {
+        width: 200px;
+    }
+}
 
 /************* ARTWORK *************/
 

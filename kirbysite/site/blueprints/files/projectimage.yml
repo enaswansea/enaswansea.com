@@ -1,0 +1,10 @@
+title: Project Image
+
+fields:
+  alt:
+    label: Alt Text
+    type: text
+
+  caption:
+    label: Caption
+    type: text

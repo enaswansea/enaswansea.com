@@ -1,7 +1,3 @@
-Title: gay wedding 2
-
-----
-
 Artwork-image: 
 
 - 58gaywedding2.jpg
@@ -20,9 +16,8 @@ Artwork-year: 2005
 
 ----
 
-Selected: false
+Selected: true
 
 ----
 
 Drupal-url: /artwork/gay-wedding-2
-
