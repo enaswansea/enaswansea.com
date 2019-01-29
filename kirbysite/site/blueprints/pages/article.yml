@@ -2,26 +2,31 @@ title: Article
 
 pages: false
 
-fields:
-  title:
-    label: Title
-    type:  title
-    
-  coverimage:
-    label: Cover Image
-    type: image
-    width: 1/2
-    
-  date:
-    icon: calendar
-    label: Date
-    type: date
-    format: LL
-    placeholder: Select a date…
-    default: today
-    required: true
-    width: 1/2
-  
-  text:
-    label: Text
-    type: textarea
+sections:
+
+  images:
+    headline: Article images
+    type: files
+    template: captionedimage
+    sortable: true
+
+  content:
+    type: fields
+    fields:
+      title:
+        label: Title
+        type:  title
+        
+      date:
+        icon: calendar
+        label: Date
+        type: date
+        format: LL
+        placeholder: Select a date…
+        default: today
+        required: true
+        width: 1/2
+      
+      text:
+        label: Text
+        type: textarea

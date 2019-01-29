@@ -11,8 +11,6 @@
     </header>
     
     <div class="wrap wide">
-      <h2>Get in Touch</h2>
-      
       <ul class="contact-options">
         <?php foreach($page->contactoptions()->toStructure() as $item): ?>
           <?php $icon = $page->image($item->icon()); ?>

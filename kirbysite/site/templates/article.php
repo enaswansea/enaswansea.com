@@ -20,8 +20,6 @@
       
     </article>
     
-    <?php snippet('prevnext', ['flip' => true]) ?>
-    
   </main>
 
 <?php snippet('footer') ?>

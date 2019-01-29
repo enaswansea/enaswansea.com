@@ -1,0 +1,15 @@
+title: Biblio
+
+sections:
+
+  info:
+    label: Hint
+    type: info
+    text: >
+      To add new bilio items, click the <b>Add</b> button to the right.
+
+  items:
+    type: pages
+    headline: Items
+    templates: article
+
