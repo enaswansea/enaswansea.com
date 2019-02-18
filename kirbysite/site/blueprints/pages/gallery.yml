@@ -10,8 +10,8 @@ sections:
 
   selected:
     type: pages
-    headline: Selected Artworkkk
-    #    parent: page.children.filterBy('featured', false)
+    headline: Selected Artwork
+    #    parent: pages.children.filterBy('featured', false)
 
   published:
     headline: Published Artwork

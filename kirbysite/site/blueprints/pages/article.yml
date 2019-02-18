@@ -2,31 +2,64 @@ title: Article
 
 pages: false
 
-sections:
+columns:
+  - width: 1/2 
+    sections:
 
-  images:
-    headline: Article images
-    type: files
-    template: captionedimage
-    sortable: true
+      info:
+        label: Hint
+        type: info
+        text: The info below is required!
 
-  content:
-    type: fields
-    fields:
-      title:
-        label: Title
-        type:  title
-        
-      date:
-        icon: calendar
-        label: Date
-        type: date
-        format: LL
-        placeholder: Select a date…
-        default: today
-        required: true
-        width: 1/2
-      
-      text:
-        label: Text
-        type: textarea
+      content:
+        type: fields
+
+        fields:
+
+           title:
+             label: Title
+             type:  title
+             
+           date:
+             icon: calendar
+             label: Date
+             type: date
+             format: LL
+             placeholder: Select a date…
+             default: today
+             required: true
+             width: 1/2
+           
+           summary:
+             label: Summary
+             type: textarea
+             required: true
+ 
+
+  - width: 1/2
+    sections:
+
+      optionalinfo:
+        label: Hint
+        type: info
+        text: This is optional. Add a URL or an image!
+        theme: positive
+
+
+      images:
+        headline: Article images
+        type: files
+        template: captionedimage
+        sortable: true
+
+      pdf:
+        label: PDFs of article
+        type: files
+        max: 1
+
+      contentx:
+        type: fields
+        fields: 
+          url:
+           label: URL
+           type: url

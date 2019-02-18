@@ -54,6 +54,7 @@ sections:
         label: WARNING
         type: info
         text: Please do not edit the information below! This is here to maintan compatibility with old links from other sites to enaswansea.com. By keeping the URLs the same, we will ensure that existing links from other sites on the internet will connect to the right page here.
+        theme: negative
 
       drupal_url:
         label: URL from old Drupal site (2010 - 2018) (DO NOT EDIT)
