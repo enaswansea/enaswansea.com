@@ -11,22 +11,36 @@ $biblio = page('biblio')->children()->visible();
     </div>
 
 
-<ul class="showcase grid gutter-1">
+<div class="biblio">
 
-  <?php foreach($biblio as $article): ?>
+<?php $years = $page->articles()->toStructure()->groupBy('year');
+foreach($years as $year => $articles): ?>
+  <div class="year">
+    <div class="year-num"><?= $year ?></div>
+    <ul class="articles">
+     <?php foreach($articles as $article) : ?>
 
-    <div class="showcase-item column">
-        <a href="<?= $article->url() ?>" class="showcase-link">
-          <?php if($image = $article->images()->sortBy('sort', 'asc')->first()): $thumb = $image->crop(600, 600); ?>
-            <img src="<?= $thumb->url() ?>" alt="Thumbnail for <?= $article->title()->html() ?>" class="showcase-image" />
-          <?php endif ?>
-          <div class="showcase-summary"><?= $article->summary()->html() ?></div>
-        </a>
-    </div>
 
-  <?php endforeach ?>
+     <?php if($image = $article->image()->first()->toFile()): $thumb = $image->crop(200, 200); ?> 
+    <?php //print( $thumb ) ?>
+    <?php endif ?>
 
-</ul>
+     <?php if($pdf = $article->pdf()->first()->toFile()): ?>
+    <?php //print( $pdf->url()) ?>
+    <?php endif ?>
+
+
+
+      <div class="summary"><?= $article->biblio() ?></div>
+      <?php endforeach; ?>
+    </ul>
+<?php endforeach ?>
+
+
+
+
+
+</div>
       
   </main>
 

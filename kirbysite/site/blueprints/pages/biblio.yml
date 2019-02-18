@@ -1,7 +1,7 @@
 title: Biblio
 
 columns:
-  - width: 1/3
+  - width: 1
     sections:
       content:
         type: fields
@@ -9,18 +9,67 @@ columns:
           text:
             label: Text
             type: textarea
-            size: large
 
-  - width: 2/3
+  - width: 1
     sections:
       info:
         label: Hint
         type: info
         text: >
-          To add new bilio items, click the <b>Add</b> button to the right.
+          <b>1</b>. To add new biblio/press items, upload an image and/or a PDF of the article by clicking the <b>Add</b> buttons to the left.<br/>
+          <b>2</b>. Then, add a new article by clicking the <b>Add</b> button to the right, and reference your uploaded images/pdfs.
 
-      items:
-        type: pages
-        headline: Items
-        templates: article
 
+  - width: 1/4
+    sections:
+      images:
+        headline: Article images
+        type: files
+        template: article_image
+        sortable: true
+
+      pdfs:
+        headline: Article PDFs
+        type: files
+        template: article_pdf
+        sortable: true
+
+ 
+
+
+
+
+  - width: 3/4 
+    sections:
+      bibliotable:
+        type: fields
+        fields:
+          articles:
+            label: Articles
+            type: structure
+            columns:
+              biblio:
+                width: 1/2 
+              year:
+              image:
+              pdf:
+              display:
+            fields:
+              biblio:
+                label: Biblio
+                type: textarea
+              year:
+                label: Year 
+                type: text
+              image:
+                label: Image 
+                type: files
+                query: page.images
+              pdf:
+                label: PDF
+                type: files
+                query: page.files.filterBy('template', 'article_pdf')
+              display:
+                label: Display?
+                type: toggle
+                text: Display?

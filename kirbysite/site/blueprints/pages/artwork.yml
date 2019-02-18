@@ -59,3 +59,4 @@ sections:
       drupal_url:
         label: URL from old Drupal site (2010 - 2018) (DO NOT EDIT)
         type: text
+        disabled: true

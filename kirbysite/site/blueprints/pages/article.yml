@@ -42,24 +42,24 @@ columns:
       optionalinfo:
         label: Hint
         type: info
-        text: This is optional. Add a URL or an image!
+        text: This is optional. Add a URL or an image! If a PDF exists, the biblio will link to the PDF; otherwise, it will link to the URL if it exists.
         theme: positive
-
 
       images:
         headline: Article images
         type: files
-        template: captionedimage
+        template: article_image
         sortable: true
 
       pdf:
-        label: PDFs of article
+        headline: PDF of article
         type: files
-        max: 1
+        template: article_pdf
+        label: PDFs of article
 
       contentx:
         type: fields
         fields: 
-          url:
-           label: URL
+          articleurl:
+           label: Article URL
            type: url

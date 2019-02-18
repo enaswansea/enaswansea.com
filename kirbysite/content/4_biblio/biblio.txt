@@ -6,4 +6,45 @@ Text: ***bibliography*** - selected articles and catalogues
 
 ----
 
+Articles: 
+
+- 
+  biblio: >
+    Rosenberg, Karen, "A Showcase for Buyers
+    and Browsers," The New York Times, print
+    edition Nov 14, 2014.
+  year: "2014"
+  image:
+    - alchemic-magic-screenshot.png
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: "The Alchemic Magic of Ena Swansea's Floating Images, Art Asia Pacific, September/October 2016"
+  year: "2016"
+  image:
+    - alchemic-magic-screenshot.png
+  pdf:
+    - alchemicmagic.pdf
+  display: 'true'
+- 
+  biblio: >
+    Haden-Guest, Anthony, “New York, Are
+    You Sitting Comfortably,” The Art
+    Newspaper, June 2014.
+  year: "2014"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+
+----
+
 Perpage: 2
+
+----
+
+Addresses: 
+
+- 
+  street: fdsa
+  zip: fdsa
+  city: fdsa
