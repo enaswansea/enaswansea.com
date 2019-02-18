@@ -1,30 +1,42 @@
 title: Gallery 
 
-sections:
+columns:
 
-  info:
-    label: Hint
-    type: info
-    text: >
-      To add new artworks, <b>Add</b> button to the left to create a new artwork. 
+  - width: 1
+    sections:
 
-  selected:
-    type: pages
-    headline: Selected Artwork
-    #    parent: pages.children.filterBy('featured', false)
+      info:
+        label: Hint
+        type: info
+        text: >
+          To add new artworks, <b>Add</b> button to the left to create a new artwork. 
 
-  published:
-    headline: Published Artwork
-    type: pages
-    status: listed
-    templates: artwork
-    sort: flip
-    info: "{{ page.artwork_year }}"
+  - width: 1/3
+    sections:
+      selected_artwork:
+        type: pagesdisplay
+        headline: Selected Artwork
+        query: page.index.filterBy(selected, *=, rue)
+        status: published
 
-  drafts:
-    headline: Drafts
-    type: pages
-    status: draft
-    templates: artwork
+  - width: 1/3
+    sections:
+      published_artwork:
+        headline: Published Artwork
+        type: pages
+        status: published
+        templates: artwork
+        sort: flip
+        info: "{{ page.artwork_year }}"
+        templates: artwork
+
+  - width: 1/3
+    sections:
+      draft_artwork:
+        headline: Drafts
+        type: pages
+        status: draft
+        templates: artwork
+
 
    

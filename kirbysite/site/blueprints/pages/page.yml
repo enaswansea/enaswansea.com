@@ -24,3 +24,11 @@ columns:
         type: files
         template: captionedimage
         sortable: true 
+
+
+      options:
+        type: fields
+        fields:
+          showtitle:
+            label: Show Title?
+            type:  toggle

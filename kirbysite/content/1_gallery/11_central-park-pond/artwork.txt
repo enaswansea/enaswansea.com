@@ -16,7 +16,7 @@ Artwork-year: 2019
 
 ----
 
-Selected: false
+Selected: true
 
 ----
 

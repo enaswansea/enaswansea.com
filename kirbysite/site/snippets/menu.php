@@ -21,15 +21,19 @@ $gallery_pages = $pages
 
 $unique_years = array_unique($gallery_pages->pluck('artwork_year'));
 
-$thisyear = "";
-if($tag = param('year')) {
-    $thisyear = param('year');
-}
 
 $selected = false;
 if($tag = param('selected')) {
     $selected = true;
 }
+
+$thisyear = "";
+if($tag = param('year')) {
+    $thisyear = param('year');
+} else {
+    $selected = true; // default gallery: selected = true
+}
+
 
 
 ?>

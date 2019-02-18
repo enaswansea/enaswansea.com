@@ -1,4 +1,4 @@
-<?php snippet('header') ?>
+<?php snippet('header', ['selectedartwork' => true]) ?>
 
 <?php 
 
@@ -33,7 +33,9 @@
     } 
 
     if(sizeof(params()) == 0) {
-        $artworks = new Collection(); // by default, show nothing
+        // by default....
+//        $artworks = new Collection(); // show nothing
+        $artworks = $artworks->filterBy('Selected', 'true'); // show selected
     }
 
 ?>

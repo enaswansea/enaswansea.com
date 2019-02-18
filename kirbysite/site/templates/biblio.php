@@ -19,6 +19,7 @@ foreach($years as $year => $articles): ?>
     <div class="year-num"><?= $year ?></div>
     <ul class="articles">
      <?php foreach($articles as $article) : ?>
+        <div class="article">
 
 
      <?php if($image = $article->image()->first()->toFile()): $thumb = $image->crop(200, 200); ?> 
@@ -31,9 +32,11 @@ foreach($years as $year => $articles): ?>
 
 
 
-      <div class="summary"><?= $article->biblio() ?></div>
+        <div class="summary"><?= $article->biblio() ?></div>
+       </div>
       <?php endforeach; ?>
     </ul>
+  </div>
 <?php endforeach ?>
 
 

@@ -1,6 +1,10 @@
-Intro: 
+Title: 
+
+----
+
+Text: (link: mailto:studio@enaswansea.com text: studio@enaswansea.com)
 
 ----
 
 
-Text: (link: mailto:studio@enaswansea.com text: studio@enaswansea.com)
+Intro: 

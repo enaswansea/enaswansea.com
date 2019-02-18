@@ -45,7 +45,7 @@ sections:
       selected:
         label: Toggle
         type: toggle
-        text: Show in Selected Works?
+        text: ['Not in Selected Works', 'Artwork is shown in Selected Works']
 
       line:
         type: line

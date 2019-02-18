@@ -52,12 +52,17 @@ a {
     }
 }
 
+p {
+    margin-top: 0px;
+}
+
 img {
     max-width: 100%;
 }
 
 main {
     margin-top: $title-height;
+    padding-top: 5px;
     @media #{$media-wide} {
         max-width: 70vw;
     }
@@ -120,7 +125,7 @@ nav {
         & > * {
         }
 
-        margin-right: 20px;
+        margin-right: 30px;
 
     }
     @media #{$media-narrow} {
@@ -225,4 +230,14 @@ nav {
     }
 
     margin-bottom: 100px;
+}
+
+/************* BIBLIO *************/
+
+.biblio {
+
+    .article {
+        margin-bottom: 10px;
+    }
+
 }

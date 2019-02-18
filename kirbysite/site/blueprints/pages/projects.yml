@@ -12,19 +12,19 @@ options:
 
 sections:
 
-  content:
-    type: fields
-    fields:
-      title:
-        label: Title
-        type:  text
-
-      text:
-        label: Text
-        type:  textarea
+  info:
+    headline: info
+    type: info
+    text: To add a new project, click the "add" button in 'Draft Projects'!
 
   published:
-    headline: Published Articles
+    headline: Published Projects
     type: pages
-    status: listed
+    status: published
+    templates: project
+
+  unpublished:
+    headline: Draft Projects
+    type: pages
+    status: draft
     templates: project

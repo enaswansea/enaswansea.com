@@ -2,15 +2,7 @@
 
   <main class="main" role="main">
     
-    <header class="wrap">
-      <h1><?= $page->title()->html() ?></h1>      
-      <div class="intro text">
-        <?= $page->intro()->kirbytext() ?>
-      </div>    
-      <hr />      
-    </header>
-    
-    <div class="wrap wide">
+   <div class="wrap wide">
       <ul class="contact-options">
         <?php foreach($page->contactoptions()->toStructure() as $item): ?>
           <?php $icon = $page->image($item->icon()); ?>

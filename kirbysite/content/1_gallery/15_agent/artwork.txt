@@ -1,7 +1,3 @@
-Title: agent
-
-----
-
 Artwork-image: 
 
 - 51agent.jpg
@@ -20,9 +16,8 @@ Artwork-year: 2004
 
 ----
 
-Selected: false
+Selected: true
 
 ----
 
 Drupal-url: /artwork/agent
-

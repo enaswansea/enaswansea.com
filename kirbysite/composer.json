@@ -19,7 +19,8 @@
     },
     "require": {
         "php": ">=7.1.0",
-        "getkirby/cms": "^3.0"
+        "getkirby/cms": "^3.0",
+        "rasteiner/k3-pagesdisplay-section": "^0.0.5"
     },
     "config": {
         "optimize-autoloader": true

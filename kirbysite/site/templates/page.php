@@ -3,7 +3,9 @@
   <main class="main" role="main">
     
     <header class="wrap">
+      <?php if ($page->showtitle() == "true"): ?>
       <h1><?= $page->title()->html() ?></h1>
+      <?php endif ?>
     </header>
     
     <div class="text wrap">
