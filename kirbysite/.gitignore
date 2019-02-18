@@ -35,3 +35,6 @@ Icon
 # License
 # ---------------
 /site/config/.license
+
+
+/vendor
