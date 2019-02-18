@@ -4,7 +4,7 @@ pages: false
 
 sections:
   images:
-    headline: Uploaded Images
+    headline: Uploaded Images (you can upload multiple, but can only display one) 
     type: files
     template: gallery
     limit: 1
@@ -53,9 +53,8 @@ sections:
       info:
         label: WARNING
         type: info
-        text: Please do not edit the information below!
+        text: Please do not edit the information below! This is here to maintan compatibility with old links from other sites to enaswansea.com. By keeping the URLs the same, we will ensure that existing links from other sites on the internet will connect to the right page here.
 
       drupal_url:
-        label: URL from Drupal (DO NOT EDIT)
+        label: URL from old Drupal site (2010 - 2018) (DO NOT EDIT)
         type: text
-

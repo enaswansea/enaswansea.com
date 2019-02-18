@@ -1,0 +1,13 @@
+Alt: 'ocean' sofa no. 2
+
+----
+
+Caption: 'ocean' sofa no. 2
+
+----
+
+Template: captionedimage
+
+----
+
+Sort: 6

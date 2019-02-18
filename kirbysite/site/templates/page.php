@@ -4,9 +4,6 @@
     
     <header class="wrap">
       <h1><?= $page->title()->html() ?></h1>
-      <div class="intro text">
-        <?= $page->year() ?>
-      </div>
     </header>
     
     <div class="text wrap">

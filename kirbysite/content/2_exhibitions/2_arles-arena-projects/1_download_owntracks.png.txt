@@ -1,9 +1,0 @@
-Alt: 
-
-----
-
-Caption: Owntracks.
-
-----
-
-Template: projectimage

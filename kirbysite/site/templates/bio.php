@@ -9,6 +9,10 @@
       </div>    
       <hr />      
     </header>
+    
+    <div class="text wrap">dd
+      <?= $page->text()->kirbytext() ?>
+    </div>
 
   </main>
 

@@ -4,6 +4,8 @@ Title: Bio
 
 Text: 
 
+(image: enaandtony.jpg)
+
 Born in Charlotte, North Carolina
 Lives and works in New York City
 

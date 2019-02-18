@@ -1,7 +1,3 @@
-Title: Central Park pond
-
-----
-
 Artwork-image: 
 
 - 227centralparkpondforwebsite.jpg
@@ -25,4 +21,3 @@ Selected: false
 ----
 
 Drupal-url: /artwork/central-park-pond
-

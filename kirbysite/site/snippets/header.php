@@ -20,7 +20,7 @@
 
 <header id="header"></header>
 
-<div id="content">
+<div id="content" class="template-<?= $page->template() ?>">
 
     <nav>
       <div id="site_title">
