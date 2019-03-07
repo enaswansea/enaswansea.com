@@ -1,0 +1,20 @@
+Title: deep cuts
+
+----
+
+Cover-image-percentage: 50
+
+----
+
+Text: 
+
+Here are some thoughts / deep cuts:
+
+(image: adr2-2.png)
+A random sketch
+
+(image: bullingoyesque2.jpg)
+I loved this project!
+
+(image: img_b63682f397b5-1.jpeg)
+Is this my process?
