@@ -1,7 +1,3 @@
-Title: snow on 16th St
-
-----
-
 Artwork-image: 
 
 - snowon16thstreetadjforwebsite.jpg
@@ -20,9 +16,8 @@ Artwork-year: 2011
 
 ----
 
-Selected: false
+Selected: true
 
 ----
 
 Drupal-url: /artwork/snow-on-16th-st
-
