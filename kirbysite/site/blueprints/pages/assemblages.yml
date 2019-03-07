@@ -1,0 +1,25 @@
+title: Assemblages
+
+files: false
+
+pages:
+  template: assemblages
+
+sections:
+
+  info:
+    headline: info
+    type: info
+    text: To add a new assemblage, click the "add" button in 'Draft Assemblages'!
+
+  published:
+    headline: Published Assemblages
+    type: pages
+    status: published
+    templates: assemblage
+
+  unpublished:
+    headline: Draft Assemblages
+    type: pages
+    status: draft
+    templates: assemblage

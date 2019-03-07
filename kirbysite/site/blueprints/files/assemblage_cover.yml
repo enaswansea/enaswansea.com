@@ -1,0 +1,6 @@
+title: Assemblage cover
+
+fields:
+  alt:
+    label: Alt Text
+    type: text

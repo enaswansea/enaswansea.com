@@ -1,0 +1,39 @@
+title: Assemblage
+
+columns:
+    # cover info
+  - width: 1
+    sections:
+      cover_image:
+        headline: Cover Image
+        type: files
+        template: assemblage_cover
+        max: 1
+ 
+
+  # text composition
+  - width: 2/3
+    sections:
+      assemblagecontent:
+        type: fields
+        fields:
+          title:
+            label: Title
+            type:  text
+
+          text:
+            label: Text
+            type:  textarea
+            size: medium
+
+   #image (probably artwork)  upload
+  - width: 1/3
+    sections:
+      images:
+        headline: Assemblage Images / Artwork
+        info: click to edit caption
+        type: files
+        template: captionedimage
+        sortable: true 
+
+  
