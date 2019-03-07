@@ -12,13 +12,16 @@ $assemblages = $page->children();
       <?php foreach ($assemblages as $assemblage): ?>
       <?php $oddeven = $assemblages->indexOf($assemblage) % 2 == 0 ? "even" : "odd"; ?>
       <div class="assemblage <?= $oddeven?>">
-        <a href="<?= $assemblage->url() ?>">
         <div class="assemblage_cover">
+          <a href="<?= $assemblage->url() ?>">
             <?= $assemblage->files()->template('assemblage_cover')->first()->resize(500,500, 100)?>
-            <?= $assemblage->files()->template('assemblage_cover')->first()->resize(500,500)->crop(50,500, 100); ?>
+          </a>
         </div>
-        <div class="assemblage_title"><?= $assemblage->title() ?></div>
-       </a>
+        <div class="assemblage_title">
+          <a href="<?= $assemblage->url() ?>">
+            <?= $assemblage->title() ?>
+          </a>
+        </div>
       </div>
       <?php endforeach ?>
     </div>

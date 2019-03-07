@@ -241,3 +241,47 @@ nav {
     }
 
 }
+
+/*************  ASSEMBLAGES *************/
+
+#assemblages {
+
+    .assemblage {
+        margin: 20px 0px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .assemblage.odd {
+        flex-direction: row-reverse !important;
+    }
+
+    .assemblage_cover {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 200px;
+        width: 200px;
+        img {
+            max-width: 200px;
+            max-height: 200px;
+            display: block;
+        }
+    }
+
+    .assemblage_title {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0px 10px;
+        font-size: 0.8em;
+    }
+
+    @media #{$media-wide} {
+        text-align: center;
+    }
+    @media #{$media-narrow} {
+    }
+}
+
+
