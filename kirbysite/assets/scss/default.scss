@@ -2,6 +2,7 @@ $media-wide: "(min-width: 1025px)";
 $media-narrow: "(max-width: 1025px)";
 
 $orange: rgb(255, 73, 27);
+$light-gray: lighten(rgb(0,0,0), 70);
 
 $title_height: 30px;
 
@@ -13,7 +14,7 @@ $title_height: 30px;
 
     #content {
         padding-top: 3vw;
-        padding-left: 5vw;
+        padding-left: 2vw;
         display: flex;
         flex-direction: row;
         & > * {
@@ -30,7 +31,7 @@ $title_height: 30px;
 /********** STYLING **********/
 
 html {
-    font-size: 100%;
+    font-size: 90%;
     background-color: rgb(94, 94, 94);
     color: #FFF;
     font-family: "Karla", "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
@@ -81,6 +82,7 @@ main {
 header {
     h1 {
         margin-top: 0px;
+        font-size: 1.3em;
     }
 }
 
@@ -181,7 +183,7 @@ nav {
         font-weight: bold;
     }
 
-    body.gallery & {
+    body & {
         display: flex;
     }
 
@@ -212,6 +214,12 @@ nav {
 .submenu.exhibitions {
     @media #{$media-wide} {
         width: 200px;
+    }
+}
+
+.submenu.assemblages {
+    @media #{$media-wide} {
+        width: 100px;
     }
 }
 
@@ -247,7 +255,7 @@ nav {
 #assemblages {
 
     .assemblage {
-        margin: 20px 0px;
+        margin: 0px 0px 60px 0px;
         display: flex;
         flex-direction: row;
     }
@@ -260,8 +268,6 @@ nav {
         display: flex;
         align-items: center;
         justify-content: center;
-        height: 200px;
-        width: 200px;
         img {
             max-width: 200px;
             max-height: 200px;
@@ -277,6 +283,7 @@ nav {
         font-size: 0.8em;
     }
 
+
     @media #{$media-wide} {
         text-align: center;
     }
@@ -284,4 +291,26 @@ nav {
     }
 }
 
+/*************  ASSEMBLAGE (SINGLE) *************/
 
+.template-assemblage {
+
+    figure {
+        padding: 0px;
+        margin: 0px 0px 50px 0px;
+        
+        img {
+            max-height: 90vh;
+            max-width: 100%;
+        }
+    }
+
+    figcaption {
+        margin-top: 5px;
+        font-size: 0.9em;
+        text-align: right;
+        font-style: italic;
+        color: $light-gray;
+    }
+
+}

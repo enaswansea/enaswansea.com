@@ -74,6 +74,33 @@ $exhibitions = page('exhibitions')->children()->visible();
 </ul>
 <?php endif ?>
 
+
+
+<?php 
+/************ ASSEMBLAGES *************/
+//if($page->id() == "groups" || $page->parent() == "groups"): 
+if($page->parent() == "groups"): 
+
+
+?>
+
+<?php 
+$assemblages = page('groups')->children()->visible();
+?>
+
+
+<ul class="submenu assemblages">
+    <?php foreach($assemblages as $assemblage): ?>
+        <?php $classtext = $page->id() == $assemblage->id() ? "active" : "" ?>
+            <li><a class="assemblage <?= $classtext?>" href="<?= $assemblage->url()?>"><?= $assemblage->title()->html() ?></a></li>
+    <?php endforeach ?>
+</ul>
+<?php endif ?>
+
+
+
+
+
 </div>
 
 
