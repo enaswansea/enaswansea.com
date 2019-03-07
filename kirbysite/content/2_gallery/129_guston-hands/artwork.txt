@@ -1,0 +1,28 @@
+Title: Guston hands
+
+----
+
+Artwork-image: 
+
+- 180gustonhands.png
+
+----
+
+Artwork-reference-number: 180
+
+----
+
+Artwork-description: 54 x 90 in | 137 x 229 cm
+
+----
+
+Artwork-year: 2014
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/guston-hands
+

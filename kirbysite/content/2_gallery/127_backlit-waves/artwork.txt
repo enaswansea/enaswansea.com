@@ -1,0 +1,28 @@
+Title: backlit waves
+
+----
+
+Artwork-image: 
+
+- 141backlitwaves.png
+
+----
+
+Artwork-reference-number: 141
+
+----
+
+Artwork-description: 18 x 24 in | 46 x 61 cm
+
+----
+
+Artwork-year: 2012
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/backlit-waves
+

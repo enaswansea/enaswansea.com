@@ -1,0 +1,13 @@
+Alt: 'snow' sofa
+
+----
+
+Caption: 'snow' sofa
+
+----
+
+Template: captionedimage
+
+----
+
+Sort: 3

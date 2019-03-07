@@ -1,0 +1,28 @@
+Title: always worth it
+
+----
+
+Artwork-image: 
+
+- 96alwaysworthit150.jpg
+
+----
+
+Artwork-reference-number: 93
+
+----
+
+Artwork-description: 97 x 78 in (246 x 198 cm)
+
+----
+
+Artwork-year: 2007
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/always-worth-it
+

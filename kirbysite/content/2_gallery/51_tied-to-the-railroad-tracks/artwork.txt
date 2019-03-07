@@ -1,0 +1,28 @@
+Title: tied to the railroad tracks
+
+----
+
+Artwork-image: 
+
+- 104tiedtotherailroadtracks150.jpg
+
+----
+
+Artwork-reference-number: 101
+
+----
+
+Artwork-description: 28 x 96 in (71.12 x 243.84 cm)
+
+----
+
+Artwork-year: 2008
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/tied-to-the-railroad-tracks
+

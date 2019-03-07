@@ -1,0 +1,28 @@
+Title: go go boy
+
+----
+
+Artwork-image: 
+
+- 129gogodancer150.jpg
+
+----
+
+Artwork-reference-number: 129
+
+----
+
+Artwork-description: 18 x 24 in (45.7 x 61 cm)
+
+----
+
+Artwork-year: 2010
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/go-go-boy
+

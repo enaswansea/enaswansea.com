@@ -1,0 +1,28 @@
+Title: devil on the road
+
+----
+
+Artwork-image: 
+
+- 37devilontheroad.jpg
+
+----
+
+Artwork-reference-number: 37
+
+----
+
+Artwork-description: 56 x 56 in (142.24 x 142.24 cm)
+
+----
+
+Artwork-year: 2004
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/devil-on-the-road
+

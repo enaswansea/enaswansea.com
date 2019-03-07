@@ -1,0 +1,28 @@
+Title: 21st century haystack 3
+
+----
+
+Artwork-image: 
+
+- 11121stcenturyhaystack3150.jpg
+
+----
+
+Artwork-reference-number: 108
+
+----
+
+Artwork-description: 72 x 54 in (182.9 x 137.2 cm)
+
+----
+
+Artwork-year: 2008
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/21st-century-haystack-3
+

@@ -1,0 +1,28 @@
+Title: snow on 5th Ave
+
+----
+
+Artwork-image: 
+
+- 133snow5thaveadj.jpg
+
+----
+
+Artwork-reference-number: 133
+
+----
+
+Artwork-description: 28 x 80 in | 71 x 203 cm
+
+----
+
+Artwork-year: 2011
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/snow-on-5th-ave
+

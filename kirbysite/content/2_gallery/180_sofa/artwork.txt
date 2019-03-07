@@ -1,0 +1,28 @@
+Title: "sofa"
+
+----
+
+Artwork-image: 
+
+- 177sofaview1forwebsite.png
+
+----
+
+Artwork-reference-number: 178
+
+----
+
+Artwork-description: large version, 2 artist proofs, exhibition view
+
+----
+
+Artwork-year: 2014
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/sofa
+

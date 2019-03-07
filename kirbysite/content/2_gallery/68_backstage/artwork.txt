@@ -1,0 +1,28 @@
+Title: backstage
+
+----
+
+Artwork-image: 
+
+- backstageadjsofternoseversionforwebsite.jpg
+
+----
+
+Artwork-reference-number: 139
+
+----
+
+Artwork-description: 72 x 60 in | 183 x 152 cm
+
+----
+
+Artwork-year: 2011
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/backstage
+

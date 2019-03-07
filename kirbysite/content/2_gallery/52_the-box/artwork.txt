@@ -1,0 +1,28 @@
+Title: the box
+
+----
+
+Artwork-image: 
+
+- 116thebox150.jpg
+
+----
+
+Artwork-reference-number: 113
+
+----
+
+Artwork-description: 48 x 72 in (121.9 x 182.9 cm)
+
+----
+
+Artwork-year: 2009
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/the-box
+

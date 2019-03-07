@@ -1,0 +1,28 @@
+Title: dancers
+
+----
+
+Artwork-image: 
+
+- 134dancersadj.jpg
+
+----
+
+Artwork-reference-number: 134
+
+----
+
+Artwork-description: 36 x 96 in | 91 x 244 cm
+
+----
+
+Artwork-year: 2011
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/dancers
+

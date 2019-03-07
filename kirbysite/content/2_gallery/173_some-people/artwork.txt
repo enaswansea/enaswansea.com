@@ -1,0 +1,28 @@
+Title: some people
+
+----
+
+Artwork-image: 
+
+- 81somepeople150.jpg
+
+----
+
+Artwork-reference-number: 79
+
+----
+
+Artwork-description: 76 x 114 in (193.04 x 289.56 cm)
+
+----
+
+Artwork-year: 2006
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/some-people
+

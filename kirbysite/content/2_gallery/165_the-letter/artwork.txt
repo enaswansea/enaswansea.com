@@ -1,0 +1,28 @@
+Title: the letter
+
+----
+
+Artwork-image: 
+
+- 8theletter.jpg
+
+----
+
+Artwork-reference-number: 8
+
+----
+
+Artwork-description: 36 x 48 in (91 x 122 cm)
+
+----
+
+Artwork-year: 2004
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/the-letter
+

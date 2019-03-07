@@ -1,0 +1,28 @@
+Title: 40 people in a club
+
+----
+
+Artwork-image: 
+
+- 20040peopleinaclubforwebsite.jpg
+
+----
+
+Artwork-reference-number: 200
+
+----
+
+Artwork-description: 72 x 94 in | 183 x 239 cm
+
+----
+
+Artwork-year: 2016
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/40-people-in-a-club
+

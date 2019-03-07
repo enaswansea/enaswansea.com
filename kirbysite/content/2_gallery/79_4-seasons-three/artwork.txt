@@ -1,0 +1,28 @@
+Title: 4 seasons - three
+
+----
+
+Artwork-image: 
+
+- 994seasons-three150.jpg
+
+----
+
+Artwork-reference-number: 96
+
+----
+
+Artwork-description: 29.5 x 38.25 in (74.93 x 97.155 cm)
+
+----
+
+Artwork-year: 2007
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/4-seasons-three
+

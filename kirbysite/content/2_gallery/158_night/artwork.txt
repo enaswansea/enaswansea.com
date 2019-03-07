@@ -1,0 +1,28 @@
+Title: night
+
+----
+
+Artwork-image: 
+
+- 73night150.jpg
+
+----
+
+Artwork-reference-number: 71
+
+----
+
+Artwork-description: 94 x 136 in (238.76 x 345.44 cm)
+
+----
+
+Artwork-year: 2005
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/night
+

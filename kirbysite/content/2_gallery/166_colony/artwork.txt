@@ -1,0 +1,28 @@
+Title: colony
+
+----
+
+Artwork-image: 
+
+- 64colony.jpg
+
+----
+
+Artwork-reference-number: 64
+
+----
+
+Artwork-description: 96 x 72 in (243.84 x 182.88 cm)
+
+----
+
+Artwork-year: 2005
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/colony
+

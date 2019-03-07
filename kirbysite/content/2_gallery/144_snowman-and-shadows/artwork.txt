@@ -1,0 +1,28 @@
+Title: snowman and shadows
+
+----
+
+Artwork-image: 
+
+- 207snowmanandshadowsforwebsite.jpg
+
+----
+
+Artwork-reference-number: 207
+
+----
+
+Artwork-description: 80 x 54 in | 203 x 137 cm
+
+----
+
+Artwork-year: 2017
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/snowman-and-shadows
+

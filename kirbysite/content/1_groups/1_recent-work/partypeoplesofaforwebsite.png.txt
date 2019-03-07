@@ -1,0 +1,9 @@
+Alt: 
+
+----
+
+Caption: Caption for Party People
+
+----
+
+Template: captionedimage

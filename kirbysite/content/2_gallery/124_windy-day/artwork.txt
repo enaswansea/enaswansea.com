@@ -1,0 +1,28 @@
+Title: windy day
+
+----
+
+Artwork-image: 
+
+- 120windyday150.jpg
+
+----
+
+Artwork-reference-number: 117
+
+----
+
+Artwork-description: 48 x 60 in (121.92 x 152.4 cm)
+
+----
+
+Artwork-year: 2009
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/windy-day
+

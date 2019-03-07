@@ -1,0 +1,28 @@
+Title: tiny plastic hands
+
+----
+
+Artwork-image: 
+
+- 202tinyplastichandscroppedforwebsite.jpg
+
+----
+
+Artwork-reference-number: 202
+
+----
+
+Artwork-description: 20 x 30 in | 50.8 x 76.2 cm
+
+----
+
+Artwork-year: 2016
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/tiny-plastic-hands
+

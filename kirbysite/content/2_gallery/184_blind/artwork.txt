@@ -1,0 +1,28 @@
+Title: blind
+
+----
+
+Artwork-image: 
+
+- 53blind150.jpg
+
+----
+
+Artwork-reference-number: 52
+
+----
+
+Artwork-description: 60 x 84 in (152.4 x 213.36 cm)
+
+----
+
+Artwork-year: 2004
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/blind
+

@@ -1,0 +1,28 @@
+Title: unexpected letter
+
+----
+
+Artwork-image: 
+
+- 47unexpectedletter150.jpg
+
+----
+
+Artwork-reference-number: 46
+
+----
+
+Artwork-description: 36 x 48 in (91.44 x 121.92 cm)
+
+----
+
+Artwork-year: 2004
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/unexpected-letter
+

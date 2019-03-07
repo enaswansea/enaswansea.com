@@ -1,0 +1,28 @@
+Title: twilight snow in central park
+
+----
+
+Artwork-image: 
+
+- 210twilightsnowincentralparkforwebsite.jpg
+
+----
+
+Artwork-reference-number: 210
+
+----
+
+Artwork-description: 90 x 114 in | 229 x 290 cm
+
+----
+
+Artwork-year: 2017
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/twilight-snow-in-central-park
+

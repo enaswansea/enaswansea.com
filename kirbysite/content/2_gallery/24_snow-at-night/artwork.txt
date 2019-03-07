@@ -1,0 +1,28 @@
+Title: snow at night
+
+----
+
+Artwork-image: 
+
+- 157snowatnightforwebsite.jpg
+
+----
+
+Artwork-reference-number: 157
+
+----
+
+Artwork-description: 96 x 72 in | 244 x 183 cm
+
+----
+
+Artwork-year: 2013
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/snow-at-night
+

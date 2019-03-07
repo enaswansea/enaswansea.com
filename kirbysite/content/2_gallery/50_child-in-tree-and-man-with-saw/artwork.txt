@@ -1,0 +1,28 @@
+Title: child in tree and man with saw
+
+----
+
+Artwork-image: 
+
+- 92childintreeandmanwithsaw150.jpg
+
+----
+
+Artwork-reference-number: 90
+
+----
+
+Artwork-description: 90 x 96 in (228.6 x 243.8 cm)
+
+----
+
+Artwork-year: 2007
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/child-in-tree-and-man-with-saw
+

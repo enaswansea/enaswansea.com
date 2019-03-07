@@ -1,0 +1,28 @@
+Title: yellow fields
+
+----
+
+Artwork-image: 
+
+- 7yellowfields.jpg
+
+----
+
+Artwork-reference-number: 124
+
+----
+
+Artwork-description: 60 x 48 in (152.4 x 121.9 cm)
+
+----
+
+Artwork-year: 2010
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/yellow-fields
+

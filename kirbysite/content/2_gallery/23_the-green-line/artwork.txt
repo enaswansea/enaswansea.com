@@ -1,0 +1,28 @@
+Title: the green line
+
+----
+
+Artwork-image: 
+
+- thegreenlinedraft.jpg
+
+----
+
+Artwork-reference-number: 143
+
+----
+
+Artwork-description: 60 x 48 in | 152 x 122 cm
+
+----
+
+Artwork-year: 2012
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/the-green-line
+

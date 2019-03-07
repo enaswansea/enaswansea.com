@@ -1,0 +1,28 @@
+Title: x-rays n
+
+----
+
+Artwork-image: 
+
+- 28xraysn.jpg
+
+----
+
+Artwork-reference-number: 28
+
+----
+
+Artwork-description: 108 x 53 in (274.5 x 134.5 cm)
+
+----
+
+Artwork-year: 2004
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/x-rays-n
+

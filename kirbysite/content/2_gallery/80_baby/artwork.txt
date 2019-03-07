@@ -1,0 +1,28 @@
+Title: baby
+
+----
+
+Artwork-image: 
+
+- 107baby150.jpg
+
+----
+
+Artwork-reference-number: 104
+
+----
+
+Artwork-description: 66 x 68 in (167.6 x 172.7 cm)
+
+----
+
+Artwork-year: 2008
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/baby
+

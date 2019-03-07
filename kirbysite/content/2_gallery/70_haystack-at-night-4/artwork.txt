@@ -1,0 +1,28 @@
+Title: haystack at night 4
+
+----
+
+Artwork-image: 
+
+- 168haystackatnight4.jpg
+
+----
+
+Artwork-reference-number: 168
+
+----
+
+Artwork-description: 18 x 24 in | 46 x 61 cm
+
+----
+
+Artwork-year: 2013
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/haystack-at-night-4
+

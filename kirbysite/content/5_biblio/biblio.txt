@@ -1,0 +1,686 @@
+Title: Biblio
+
+----
+
+Text: ***bibliography*** - selected articles and catalogues
+
+----
+
+Articles: 
+
+- 
+  biblio: 'Schwabsky, Barry, "Ena Swansea at Albertz Benda Gallery," Artforum, pp 216 - 217, February 2017.'
+  year: "2017"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: "The Alchemic Magic of Ena Swansea's Floating Images, Art Asia Pacific, September/October 2016"
+  year: "2016"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'When Innovative Art Meets Traditional Surroundings, Huffpost Arts & Culture April 26, 2016'
+  year: "2016"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    An Empty Manhattan Apartment is
+    Transformed into a Work of Art,
+    Architectural Digest Online, April 20,
+    2016
+  year: "2016"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Artful Installations Take Over a Grand
+    Manhattan Apartment, Introspective
+    Magazine, April 11, 2016
+  year: "2016"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    What Happens When Artists Take Over an
+    Upper East Side Mansion, W Online, April
+    5, 2016
+  year: "2016"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Rosenberg, Karen, "A Showcase for Buyers
+    and Browsers," The New York Times, print
+    edition Nov 14, 2014.
+  year: "2014"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Haden-Guest, Anthony, “New York, Are
+    You Sitting Comfortably,” The Art
+    Newspaper, June 2014.
+  year: "2014"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Barbaro, Theresa, “Ena Swansea exhibition - untitled nightlife,” L.I.Art Russia, Issue 38, pp 110 – 111, May 2014.'
+  year: "2014"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Cohen, David, “Night and Day: Ena Swansea, Reversible.” artcritical, February 14, 2014.'
+  year: "2014"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: '“Ena Swansea: untitled nightlife,” Wall Street International, January 29, 2014.'
+  year: "2014"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Laluyan, Oscar. “PICTURE THIS: I love the nightlife at Friedman Benda.” Arte Fuse, January 28, 2014.'
+  year: "2014"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    “First exhibition at Friedman Benda
+    for American painter Ena Swansea opens
+    in New York”, artdaily, January 26,
+    2014.
+  year: "2014"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Volk, Gregory. Catalogue, “Fugitive
+    Scenes.” Locks Art Publications, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Cohen, David. “Come Like Shadows.”
+    artcritical, December 18, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Wayne. “And those who were seen
+    dancing were thought to be insane by
+    those who could not hear the music.”
+    The Imagist. July 25, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Hernandez, Jennifer. “AND THOSE WHO
+    WERE SEEN DANCING…” Cultured
+    Magazine, July 24, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Omajola, Ope. “Raunch & Revelry: Nightlife at Friedman Benda Gallery.” Opening Ceremony New News, July 23, 2013.'
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Colucci, Emily. “Art Attack at
+    Friedman Benda’s Glamorous
+    Nightclubbing Exhibition.” Societe
+    Perrier, July 23, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Baumgardner, Julie. “About Last Night: A Chelsea Gallery Made Over as a Decadent Nightclub.” T Magazine, July 18, 2013.'
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Small, Rachel. “Art’s Wild Night
+    Out.” Interview Magazine, July 17,
+    2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Zhong, Fan. "Nights to Remember." W
+    Magazine, July 16, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Kessler, Max. "A New Nightlife-centric
+    Art Exhibit." Paper Magazine, July 16,
+    2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Cooper, Ashton. “Friedman Benda
+    Curator on Turning Excessive Partying
+    Into an Art Show.” Blouin Artinfo,
+    July 16, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Lescaze, Zoë, Andrew Russeth, Michael
+    H. Miller and Dan Duray, “11 Things to
+    Do in New York’s Art World Before July
+    21.” Gallerist NY, July 15, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Maida, Stephanie. “Everything You Need
+    to Know This Week On New York’s Art
+    Scene.” Guest of a Guest. July 14,
+    2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Frank, Priscilla. "Club Culture becomes
+    Art at Freidman Benda.” Huffington
+    Post, July 11, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: |
+    "A painting corroded through time, Ena Swansea's first exhibition in Asia." Herald News, January 26, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    "New York painter Ena Swansea, first
+    solo exhibition in Asia." The Union
+    Press, January 15, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    "These paintings stole the philosophy of
+    the Old Masters." Chosun Ilbo, January
+    14, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    "Ena Swansea, The Delight of Painting."
+    Spacek, January 12, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    "Ena Swansea Exhibition at 313 Art
+    Project." Noblesse Newspaper, January
+    10, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: '"Culture Calendar: Fresh Eyes." Casa Living, January 10, 2013.'
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    "Ena Swansea." The Seoul Shinmun,
+    January 9, 2013.
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: '"Culture News: Ena Swansea," Yonhap News,  January 7, 2013.'
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: '"Ena Swansea, first solo show in Asia." CNB News & Journal, January 7, 2013.'
+  year: "2013"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Luckow, Dirk, Harald Falckenberg, Belinda Grace Gardner, Miriam Schoofs, and Ena Swansea. Catalogue, “Psycho: Ena Swansea und Robert Lucander.” Snoeck Publisher, 2012.'
+  year: "2012"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Thon, Ute. "Ena Swansea, Shadows of the Past," Das Kunstmagazin, pp 70 - 78, April 1, 2012.'
+  year: "2012"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Bracker, Jacobus. “Kultur:Psycho Ausstellung: Ich ist ein anderer.” Deutsches Adelsblatt, pp 20-23, Feb 24, 2012. [“Culture:Psycho Exhibition: I am another.”]'
+  year: "2012"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: '“Psycho: Ena Swansea und Robert Lucander.” KQ Daily, March 12, 2012.'
+  year: "2012"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Krolczyk, Radek. “Ungute Gefühle.” dschungel, March 25, 2012. [“Negative Feelings.”]'
+  year: "2012"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Maeck, Stefaie. “Verlängerung | Schoner Schaudern: Abgrundtiefe Malerei von Ena Swansea und Robert Lucander in der Sammlung Falckenberg.” Kunstreisen, pp 26 - 27, February-March, 2012. [“Extension | Shudder Saver: The abyss of Ena Swansea and Robert Lucander at the Falckenberg Collection.”]'
+  year: "2012"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Hohmeyer, Jurgen. “Surreale Beklemmungen: Ena Swansea und Robert Lucander in der Sammlung Falckenberg.” Kunstzeitung, p 10, February 7, 2014. [“Surreal Anxiety: Ena Swansea and Robert Lucander at the Falckenberg Collection.”]'
+  year: "2012"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: ' “Psycho: Ena Swansea und Robert Lucander.” monopol, Issue 2, p 115, January 19, 2012.'
+  year: "2012"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Vattes, Katrin. “Emotional Gaps.”
+    art Das Kunstmagazin, January 18, 2012.
+  year: "2012"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Engler, Katja. “Das Kabinett des Doktor Falckenberg: In den Phoenix Hallen spielen zwei Maler virtuos mit unbewussten Angsten.” Die Welt, p 34, January 5, 2012. [“The Cabinet of Dr. Falckenberg: In the Phoenix Hall two virtuoso painters with unconscious anxieties.”]'
+  year: "2012"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Falckenberg, Harald, Belinda Grace Gardner, Dirk Luckow, Miriam Schoofs and Ena Swansea. Psycho: Ena Swansea, Robert Lucander, Deichtorhallen Hamburg, Snoeck Verlagsgesellschaft, Cologne (exhibition cat., pub. December 2011)'
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Büsing, Nicole and Heiko Klaas. “Im menschlichen Abgrund: Die Hamburger Doppel-Schau “Psycho” zeigt Ena Swansea und Robert Lucander.” Grafschafter Nachrichten, p 20, December 30, Neue Osnabrücker Zeitung, p 26, December 30 and Rheiderland, p 23, December 30, 2011.[“In the human abyss: The Hamburg double show "Psycho" shows Ena Swansea and Robert Lucander.”]'
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: '“Psycho, surreal und subversiv: Ena Swansea und Robert Lucander in Phoenix-Hallen.” Der Neue Ruf, p 2, December 24, 2011. [“Psycho, surreal und subversive: Ena Swansea und Robert Lucander in Phoenix-Hallen.”]'
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Jahn, Wolf. “Fragmente der Seele: Die Ausstellung ‘Psycho’ in den Harburger Phoenix-Hallen zeigt Arbeiten von Ena Swansea und Robert Lucander.” Hamburger Abendblatt, p 15, December 21, 2011. [“Fragments of the Soul: "Psycho" in the Harburg Phoenix Halls shows works by Ena Swansea and Robert Lucander.”]'
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Büsing, Nicole and Heiko Klaas. “Szenarien der Beunruhigung: Doppelausstellung "Psycho" in den Hamburger Deichtorhallen / Sammlung Falckenberg.” Kieler Nachrichten, p 17, December 20, 2011. [“Scenarios of Concern: Dual Exhibition "Psycho" at the Hamburg Deichtorhallen / Falckenberg Collection.”]'
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: "Engler, Katja. “Harburger Symphonie des Grauens.” Welt am Sonntag, Edition 51, December 18, 2011. [“Harburg's Symphony of Horror.”]"
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: '“Ena Swansea und Robert Lucander - Psycho | Sammlung Falckenberg.” Netplanet Harburg - Magazin Kultur, pp 1 - 11, December 16, 2011.'
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Waldmann, Judith. “Psycho.” Stadtlichh, Issue # 5, December 1, 2011.'
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: '“Ausstellungen: Agenten des Abgrunds.” Der Spiegel, p 122, November 28, 2011. [“Exhibitions: Agents of the Abyss.”]'
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: '“Psycho - Das unheimliche in der Malerei.” Elbe Wochenblatt, November 23, 2011. [“Psycho - The Uncanny in Painting.”]'
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'von Thurn und Taxis, Elisabeth. "TNT: Inside the Studios of Five New York Artists,” Vogue.com, Nov 11, 2011, p 8.'
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: '“Hamburger Kunstausstellung spiegelt dunkle Seiten der Seele wieder.” dapd nachrichten gmbh, November 10, 2011. [“Hamburg art exhibition reflects a dark side of the soul.”]'
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Von Thurn Und Taxis, Elisabeth. "TNT: Inside The Studio of Five New York Artists." Editorial, Vogue, p 4, November, 2011.'
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Talley, Andre Leon. “Life with Andre: Portrait Mode,” Vogue, p.182, April, 2011.'
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Finch, Charlie. "Departure," ArtNet
+    Magazine, p.1, March 8, 2011.
+  year: "2011"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Rabinowitz, Cay Sophie. “Picture Perfect: Ena Swansea.” FANTOM, Issue 05, pp 60-65, Fall 2010.'
+  year: "2010"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Othnin-Girard, Alain. “La feria du riz
+    a trové son style.” Arles Magazine,
+    Issue 145, Cover, p9, October, 2010.
+  year: "2010"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    de Montebello, Roger. “Arles en
+    Bleu.” Arty Parade, October 29, 2010.
+  year: "2010"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Hayden Guest, Anthony. “Toro! Painting
+    the Goyesque.” The Daily Beast,
+    September 30, 2010.
+  year: "2010"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Zaoui, Julie. “La vent balaie le ciel: brillent les souvenirs en bleu Swansea.” La Provence, p5, September 14, 2014. ["The wind sweeps the sky: memories shine in a blue Swansea"]'
+  year: "2010"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Zaoui, Julie. “Comme sur un nuage Ils tutoient les anges.” La Provence, pp 2-3, September 12, 2010. [“Like a cloud, they flirt with angels”]'
+  year: "2010"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Aries, Silvie. “Des taureux dans la tête.” La Provence, front page and p32, September 9, 2010. [“Bulls in the head”]'
+  year: "2010"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Hayden-Guest, Anthony. “A New York
+    artist in the Spanish tradition.” The
+    Art Newspaper, September 1, 2010.
+  year: "2010"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Aries, Silvie. “De New York à Arles les trajectoires de la feria du riz.” La Provence, pp 2-3, April 5, 2010.  [“New York to Arles, trajectories of the Feria du Riz”]'
+  year: "2010"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Rattemeyer, Chritian, Compass in Hand: Selections from the Judith Rotthschild Contemporary Drawings Collection, Catalogue Raisonné, The Museum of Modern Art, New York: p 263.'
+  year: "2009"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Tuymans, Luc and Cay Sophie Rabinowitz.
+    Ena Swansea – new paintings, André
+    Schlechtriem Temporary Inc., New York,
+    NY (exhibition cat.)
+  year: "2008"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Gadner, Buhrs, Matt. True Romance, DuMont, Cologne (cat.): pp 101, 117'
+  year: "2008"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Sandler, Irving. “In Conversation: Ena Swansea with Irving Sandler.” The Brooklyn Rail, Nov. 2008: pp 30-32.'
+  year: "2008"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Birkholz, Holger. “Dull Mirrors: On Ena Swansea.” CHECKPOINT|ARNDT & PARTNER, Issue #6, Sept. – Dec. 2009: pp 50-57'
+  year: "2008"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Riese, Ute and Gerhard Finckh, et al. Symbolismus und die Kunst der Gegenwart, Wuppertal von der Heydt Museum (cat.): pp 38, 50,179 -180'
+  year: "2007"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Cohen, David. “Ornamental Agility.”
+    The New York Sun, Mar. 1 2007
+  year: "2007"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Dannat, Adrian. “Image Alchemy.”
+    artnet, March 2007
+  year: "2007"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Lange, Christiane and Florian Metzner. Malerei der Gegenwart, Zurück zur Figur, Prestel, Munich (cat.): pp 184-185 Return to the Figure: Contemporary Paintings'
+  year: "2006"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Koerner von Gustorf, Oliver. “Die im Dunkeln sieht man noch.” monopol, no.1, Feb./Mar. 2006: pp 68-79. “And You Do See Those in the Dark”'
+  year: "2006"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Biesenbach, Klaus. Greater New York 2005, PS1 Contemporary Art Center, Long Island City (cat.): p 322.'
+  year: "2005"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Gingeras, Alison and Barry Schwabsky. The Triumph of Painting, The Saatchi Gallery, Jonathan Cape, Random House, London (cat.): pp 288-291.'
+  year: "2005"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Heil, Axel and Wolfgang Schoppmann. Most Wanted: The Olbricht Collection, Verlag der Buchhandlung Walther König, Cologne (cat.): pp: 20, 42-43, 70.'
+  year: "2005"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Krepler, Ute. “Ena Swansea” ARTinvestor, No. 04, 2005: pp: 51-53.'
+  year: "2005"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Pernegger, Karin, Walter Seidl, Nicole Six and Paul Petritsch. Slices of Life: Blueprints of the Self in Painting, Austrian Cultural Forum New York, TypoDruckSares, Austria (cat.): pp 14-15.'
+  year: "2005"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Obrist, Hans Ulrich, Laurence Dreyfus and Sophie Delpeux. Central Station, collection of Harald Falckenberg, à La maison rouge, Fage èditons, Paris (cat.): p 122.'
+  year: "2004"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Katz, Alex and Ena Swansea. “Like a Quarter Mile Race Alex Katz and Ena Swansea in conversation.” Parkett, No. 72, Dec. 2004. insert: pp 8-19.'
+  year: "2004"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Bellini, Andrea. “New York Tales.” Flash Art, Nov. - Dec. 2004: pp 106 – 108.'
+  year: "2004"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Cohen, David. “An Animated Awkwardness.” The New York Sun, Vol. 120, No 106, Sept.16, 2004: cover, p 19.'
+  year: "2004"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Danatt, Adrian.  “The Feeling of Now.” The Art Newspaper,  No. 150, Sept. 2004: p 32.'
+  year: "2004"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    “Dictionary of Painters.” Flash Art,
+    July–Aug. 2004.
+  year: "2004"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Kuntz, Melissa. “Ena Swansea at Gasser
+    and Grunert.” Art in America, Jan.
+    2004.
+  year: "2004"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: 'Lehrman, Karen. “Watercolor, A critical celebration: Fall by Ena Swansea.” artnet.com'
+  year: "2003"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Garwood, Deborah, “Ena Swansea at
+    Klemens Gasser and Tanja Grunert,
+    Inc.” artcritical.com, Spring 2003
+  year: "2003"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'
+- 
+  biblio: >
+    Ratcliff, Carter. Ena Swansea, Reality
+    of Shadows, Locks Gallery, Philadelphia
+    (exhibition cat.)
+  year: "2002"
+  image: [ ]
+  pdf: [ ]
+  display: 'true'

@@ -1,0 +1,28 @@
+Title: where are you
+
+----
+
+Artwork-image: 
+
+- 216whereareyouadjforwebsite.png
+
+----
+
+Artwork-reference-number: 216
+
+----
+
+Artwork-description: 84 x 144 in | 213 x 366 cm
+
+----
+
+Artwork-year: 2018
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/where-are-you
+

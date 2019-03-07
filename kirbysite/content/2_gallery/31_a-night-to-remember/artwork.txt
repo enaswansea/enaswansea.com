@@ -1,0 +1,28 @@
+Title: a night to remember
+
+----
+
+Artwork-image: 
+
+- 39anighttoremember150.jpg
+
+----
+
+Artwork-reference-number: 38
+
+----
+
+Artwork-description: 114 x 72 in (289.56 x 182.88 cm)
+
+----
+
+Artwork-year: 2004
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/a-night-to-remember
+

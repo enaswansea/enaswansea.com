@@ -1,0 +1,28 @@
+Title: psycho
+
+----
+
+Artwork-image: 
+
+- 131psycho.jpg
+
+----
+
+Artwork-reference-number: 131
+
+----
+
+Artwork-description: 72 x 48 in | 183 x 122 cm
+
+----
+
+Artwork-year: 2011
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/psycho
+

@@ -1,0 +1,28 @@
+Title: E 87th streetlight
+
+----
+
+Artwork-image: 
+
+- 219e87thstreetlightcopyforwebsiteplaceholder.jpg
+
+----
+
+Artwork-reference-number: 219
+
+----
+
+Artwork-description: 48.25 x 60.25 in | 122.5 x 153 cm
+
+----
+
+Artwork-year: 2018
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/e-87th-streetlight
+

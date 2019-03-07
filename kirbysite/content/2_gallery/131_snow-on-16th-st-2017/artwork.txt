@@ -1,0 +1,28 @@
+Title: snow on 16th st 2017
+
+----
+
+Artwork-image: 
+
+- 206snowon16thstreetforwebsite.jpg
+
+----
+
+Artwork-reference-number: 206
+
+----
+
+Artwork-description: 90 x 108 in | 228 x 274 cm
+
+----
+
+Artwork-year: 2017
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/snow-on-16th-st-2017
+

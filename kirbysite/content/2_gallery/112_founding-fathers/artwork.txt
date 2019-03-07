@@ -1,0 +1,28 @@
+Title: founding fathers
+
+----
+
+Artwork-image: 
+
+- 137foundingfathersforwebsite.jpg
+
+----
+
+Artwork-reference-number: 137
+
+----
+
+Artwork-description: 60 x 44 inches | 152 x 111 cm
+
+----
+
+Artwork-year: 2011
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/founding-fathers
+

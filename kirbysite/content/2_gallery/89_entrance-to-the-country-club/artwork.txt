@@ -1,0 +1,28 @@
+Title: entrance to the country club
+
+----
+
+Artwork-image: 
+
+- 212entrancetothecountryclubforwebsite.jpg
+
+----
+
+Artwork-reference-number: 212
+
+----
+
+Artwork-description: 60 x 48 inches | 152 x 122 cm
+
+----
+
+Artwork-year: 2017
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/entrance-to-the-country-club
+

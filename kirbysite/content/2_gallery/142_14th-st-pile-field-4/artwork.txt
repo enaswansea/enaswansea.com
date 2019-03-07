@@ -1,0 +1,28 @@
+Title: 14th St pile field
+
+----
+
+Artwork-image: 
+
+- 18314thstreetpilefieldadjforwebsite.png
+
+----
+
+Artwork-reference-number: 183
+
+----
+
+Artwork-description: 45 x 54 in | 114.3 x 137.2 cm
+
+----
+
+Artwork-year: 2014
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/14th-st-pile-field-4
+

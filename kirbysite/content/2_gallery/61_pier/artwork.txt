@@ -1,0 +1,28 @@
+Title: pier
+
+----
+
+Artwork-image: 
+
+- 22pier.jpg
+
+----
+
+Artwork-reference-number: 22
+
+----
+
+Artwork-description: 76 x 66 in (193 x 167 cm)
+
+----
+
+Artwork-year: 2004
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/pier
+

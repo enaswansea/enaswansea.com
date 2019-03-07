@@ -1,0 +1,28 @@
+Title: Gary Hill
+
+----
+
+Artwork-image: 
+
+- 74garyhill150.jpg
+
+----
+
+Artwork-reference-number: 72
+
+----
+
+Artwork-description: 92 x 76 in (233.68 x 193.04 cm)
+
+----
+
+Artwork-year: 2005
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/gary-hill
+

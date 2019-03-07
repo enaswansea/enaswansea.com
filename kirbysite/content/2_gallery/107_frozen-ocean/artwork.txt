@@ -1,0 +1,28 @@
+Title: frozen ocean
+
+----
+
+Artwork-image: 
+
+- 85frozenocean150.jpg
+
+----
+
+Artwork-reference-number: 83
+
+----
+
+Artwork-description: 84 x 60 in (213.36 x 152.40 cm)
+
+----
+
+Artwork-year: 2006
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/frozen-ocean
+

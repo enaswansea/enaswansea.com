@@ -1,0 +1,28 @@
+Title: snowman follows baby
+
+----
+
+Artwork-image: 
+
+- snowmanfollowsbabyforwebsite.jpg
+
+----
+
+Artwork-reference-number: 222
+
+----
+
+Artwork-description: 56 x 56 in | 142 x 142 cm
+
+----
+
+Artwork-year: 2018
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/snowman-follows-baby
+

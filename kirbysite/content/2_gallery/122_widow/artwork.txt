@@ -1,0 +1,28 @@
+Title: widow
+
+----
+
+Artwork-image: 
+
+- 101widow150.jpg
+
+----
+
+Artwork-reference-number: 98
+
+----
+
+Artwork-description: 66 x 84 in (167.64 x 213.36 cm)
+
+----
+
+Artwork-year: 2007
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/widow
+

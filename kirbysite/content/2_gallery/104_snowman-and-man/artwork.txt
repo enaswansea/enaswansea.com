@@ -1,0 +1,28 @@
+Title: snowman and man
+
+----
+
+Artwork-image: 
+
+- snowmanandnauseousmanforwebsite.jpg
+
+----
+
+Artwork-reference-number: 223
+
+----
+
+Artwork-description: 48 x 72 in | 122 x 183 cm
+
+----
+
+Artwork-year: 2018
+
+----
+
+Selected: false
+
+----
+
+Drupal-url: /artwork/snowman-and-man
+
