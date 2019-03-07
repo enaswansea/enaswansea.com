@@ -1,4 +1,8 @@
-Title: Deep Cuts
+Title: deep cuts
+
+----
+
+Cover-image-percentage: 50
 
 ----
 

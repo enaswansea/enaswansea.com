@@ -12,7 +12,7 @@ $assemblages = $page->children();
       <?php foreach ($assemblages as $assemblage): ?>
       <?php $oddeven = $assemblages->indexOf($assemblage) % 2 == 0 ? "even" : "odd"; ?>
       <div class="assemblage <?= $oddeven?>">
-        <div class="assemblage_cover">
+        <div class="assemblage_cover" style="transform:scale(<?= $assemblage->cover_image_percentage()->toInt() / 100.0 ?>)">
           <a href="<?= $assemblage->url() ?>">
             <?= $assemblage->files()->template('assemblage_cover')->first()->resize(500,500, 100)?>
           </a>

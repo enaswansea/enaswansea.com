@@ -4,15 +4,56 @@ columns:
     # cover info
   - width: 1
     sections:
+
+      info-cover:
+        type: info
+        headline: Cover image 
+        text: |
+          Upload a cover image.
+          Use the percentage to make some cover images smaller; the percentage should be between 0% and 100%. When in doubt, just use 100%.
+
+
       cover_image:
         headline: Cover Image
         type: files
         template: assemblage_cover
         max: 1
  
+      cover_image_data:
+        type: fields
+        fields:
+          cover_image_percentage:
+            width: 1/4
+            label: Cover Image Percentage
+            type: number
+            max: 100
+            min: 0
+            default: 100
+            required: true
+            after: %
+          line:
+            type: line
+          info-howto:
+            type: info
+            label: Assemblage content
+            text: |
+              This is an assemblage! A grouping of images together.
+              Click on "add images" to upload files. Then click on an uploaded image to add a caption, if you wish.
+              Then, drag an image to the text box on the left to insert it into the page. You can copy-paste the text around to change the order of the images. You can also write text inbetween the images!
+ 
+
+  #image (probably artwork)  upload
+  - width: 1/2
+    sections:
+      images:
+        headline: Assemblage Images / Artwork
+        info: click to edit caption
+        type: files
+        template: captionedimage
+        sortable: true 
 
   # text composition
-  - width: 2/3
+  - width: 1/2 
     sections:
       assemblagecontent:
         type: fields
@@ -26,14 +67,4 @@ columns:
             type:  textarea
             size: medium
 
-   #image (probably artwork)  upload
-  - width: 1/3
-    sections:
-      images:
-        headline: Assemblage Images / Artwork
-        info: click to edit caption
-        type: files
-        template: captionedimage
-        sortable: true 
-
-  
+   

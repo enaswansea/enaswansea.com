@@ -2,10 +2,13 @@ Title: bullfighting
 
 ----
 
+Cover-image-percentage: 100
+
+----
+
 Text: 
 
 (image: arlesgoyesqueairplaneimageadj2.jpg)
-
 (image: goyesquepaseolg.jpg)
 (image: feriaarenes.jpg)
 (image: goyesquetopviewfinal92010copy.png)

@@ -1,11 +1,17 @@
-Title: Recent Work
+Title: selected works
+
+----
+
+Cover-image-percentage: 100
 
 ----
 
 Text: 
 
-Recent work. Here is some text about recent work. Recent work.
+(image: 226snowinconnecticutforwebsite.jpg)
 
-(image: partypeoplesofaforwebsite.png)
+(image: 227centralparkpondforwebsite.jpg)
 
-Recent work. Here is some text about recent work. Recent work.
+(image: 228intothetreesadjforwebsite.jpg)
+
+(image: 229sittingonnagataforwebsite.jpg)

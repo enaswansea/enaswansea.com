@@ -229,7 +229,8 @@ nav {
 .artwork {
 
     .artwork_image img {
-        width: 100% !important;
+        max-height: 90vh;
+        max-width: 100%;
     }
 
     .artwork_text {
@@ -280,7 +281,7 @@ nav {
         align-items: center;
         justify-content: center;
         padding: 0px 10px;
-        font-size: 0.8em;
+        font-size: 0.9em;
     }
 
 
