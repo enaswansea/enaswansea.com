@@ -31,7 +31,7 @@ $title_height: 30px;
 /********** STYLING **********/
 
 html {
-    font-size: 90%;
+    font-size: 95%;
     background-color: rgb(94, 94, 94);
     color: #FFF;
     font-family: "Karla", "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
@@ -203,6 +203,9 @@ nav {
             }
         }
     }
+
+
+    margin: 0px 10px;
 }
 
 .submenu.gallery_years {
@@ -219,7 +222,7 @@ nav {
 
 .submenu.assemblages {
     @media #{$media-wide} {
-        width: 100px;
+        width: 140px;
     }
 }
 
@@ -256,7 +259,7 @@ nav {
 #assemblages {
 
     .assemblage {
-        margin: 0px 0px 60px 0px;
+        margin: 0px 0px 40px 0px;
         display: flex;
         flex-direction: row;
     }
