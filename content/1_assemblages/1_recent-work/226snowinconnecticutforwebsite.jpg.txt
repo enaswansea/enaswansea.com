@@ -2,7 +2,7 @@ Alt:
 
 ----
 
-Caption: Caption, caption, caption goes here.
+Caption: Caption, caption, caption goes here. This is a test caption.
 
 ----
 

@@ -12,11 +12,11 @@ Snow,
 
 (image: 226snowinconnecticutforwebsite.jpg)
 
-Images of snow,
+These are just some example words
 
 (image: 227centralparkpondforwebsite.jpg)
 
-Snow,
+To illustrate how this page works
 
 (image: 228intothetreesadjforwebsite.jpg)
 
