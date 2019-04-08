@@ -9,13 +9,16 @@
   </ul>
 
 <?php 
-/************ GALLERY *************/
-if($page->id() == "works" || $page->parent() == "works"): ?>
+/************ GALLERY/ARCHIVE of all years *************/
+
+$ARCHIVE_PATH = "archive"; // without any slashes
+
+if($page->id() == $ARCHIVE_PATH || $page->parent() == $ARCHIVE_PATH): ?>
 
 <?php
 
 $gallery_pages = $pages
-->get("works")
+->get($ARCHIVE_PATH)
 ->children()
 ->sortBy('artwork_year', 'desc');
 
@@ -39,10 +42,10 @@ if($tag = param('year')) {
 ?>
 
 <ul class="submenu gallery_years">
-    <li><a class="gallery_year <?= $selected ? "active" : "" ?>" href="<?= $pages->get("works")->url()?>/selected:true">Selected</a></li>
+    <li><a class="gallery_year <?= $selected ? "active" : "" ?>" href="<?= $pages->get($ARCHIVE_PATH)->url()?>/selected:true">Selected</a></li>
     <?php foreach($unique_years as $year): ?>
         <?php $classtext = $year == $thisyear ? "active" : "" ?>
-         <li><a class="gallery_year <?= $classtext?>" href="<?= $pages->get("works")->url()?>/year:<?= $year ?>"><?=$year?></a></li>
+         <li><a class="gallery_year <?= $classtext?>" href="<?= $pages->get($ARCHIVE_PATH)->url()?>/year:<?= $year ?>"><?=$year?></a></li>
     <?php endforeach ?>
 </ul>
 

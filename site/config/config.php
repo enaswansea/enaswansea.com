@@ -32,16 +32,23 @@ of the system, please check out http://getkirby.com/docs/advanced/options
  */
 
 
-/* so that              http://enaswansea.com/works/2018 
- * is redirected to     http://enaswansea.com/works:2018
+/*  LEGACY URL
+ * so that              http://enaswansea.com/works/2018 
+ * is redirected to     http://enaswansea.com/$ARCHIVE_PATH/year:2018
  */
+
+
+
 c::set('routes', array(
   array(
     'pattern' => 'works/(:any)',
     'action'  => function($tag) {
-      $data = array('works' => $tag);
-      return array(page('works'), $data);
 
+        $ARCHIVE_PATH = "archive";  // kirby path of archive WITHOUT ANY SLASHES
+
+
+        $data = array("works" => $tag);
+        go('/' . $ARCHIVE_PATH . '/year:' . $tag);
     }
   )
 ));
