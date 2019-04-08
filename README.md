@@ -24,6 +24,8 @@ Display templates are in `site/templates`. Sometimes URLs are hardcoded (for exa
 
 Templates are a little messy (as in err on the end of having duplicate/repetitive templates). 
 
+To figure out which template a page is using, navigate to the content directory (inside `content/`) and look at the filename of the `.txt` file.
+
 #### Backend
 
 Site backend structure is in `site/blueprints`.
