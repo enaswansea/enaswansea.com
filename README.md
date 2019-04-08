@@ -10,7 +10,7 @@ Admin interface is at `/panel`.
 
 #### Upgrading Kirby
 
-Done via `update_kirby.sh`. Sometimes this doesn't work. It may be because the `kirby/` folder is a git submodule; may have to pull/update that submodule.
+Done via `update_kirby.sh`. Sometimes this doesn't work. It may be because the `kirby/` folder is a git submodule; may have to pull/update that submodule with `git submodule update kirby/` 
 
 
 
@@ -42,6 +42,10 @@ Menu and other somewhat-reusable things are in in `snippets/`. Menu specifically
 #### Styling
 
 CSS is done through Sass: `assets/scss/default.scss`.
+
+#### Permissions
+
+Permissions are defined in `site/blueprints/users/editor.yml`.
 
 
 ## Content
