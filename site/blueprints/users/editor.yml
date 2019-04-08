@@ -15,7 +15,7 @@ permissions:
     create: true
     changeTemplate: true
     changeTitle: true
-    changeSlug: true
+    changeSlug: false 
     delete: false
     hide: true
     sort: true

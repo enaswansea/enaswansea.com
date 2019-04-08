@@ -9,6 +9,7 @@ options:
   template: false  
   status: false  
   url: false  
+  changeSlug: false
 
 sections:
 

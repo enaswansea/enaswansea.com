@@ -32,3 +32,4 @@ columns:
           showtitle:
             label: Show Title?
             type:  toggle
+
