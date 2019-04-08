@@ -50,6 +50,12 @@ c::set('routes', array(
         $data = array("works" => $tag);
         go('/' . $ARCHIVE_PATH . '/year:' . $tag);
     }
+  ),
+  array(
+    'pattern' => 'news',
+    'action'  => function() {
+        go('/bibliography');
+    }
   )
 ));
 
