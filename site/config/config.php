@@ -32,6 +32,8 @@ of the system, please check out http://getkirby.com/docs/advanced/options
  */
 
 
+
+
 /*  LEGACY URL
  * so that              http://enaswansea.com/works/2018 
  * is redirected to     http://enaswansea.com/$ARCHIVE_PATH/year:2018
@@ -59,3 +61,16 @@ c::set('routes', array(
   )
 ));
 
+
+/* 
+ * Kirbytext uses srcset instead of image
+ * from https://github.com/bnomei/kirby3-srcset/issues/2
+ */
+
+return [
+    'hooks' => [
+        'kirbytags:before' => function ($text, $data, $options) {
+            return str_replace('(image:', '(srcset:', $text);
+        }
+    ]
+];

@@ -1,3 +1,6 @@
 [submodule "kirbysite/kirby"]
 	path = kirbysite/kirby
 	url = https://github.com/getkirby/kirby.git
+[submodule "site/plugins/kirby3-srcset"]
+	path = site/plugins/kirby3-srcset
+	url = https://github.com/bnomei/kirby3-srcset.git

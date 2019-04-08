@@ -2,9 +2,8 @@
 
 <?php 
 
-$artworks = $page->text();
+//$artworks = $page->text();
 
-print_r($page);
 ?>
 
 
