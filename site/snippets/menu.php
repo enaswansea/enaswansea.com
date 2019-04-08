@@ -10,12 +10,12 @@
 
 <?php 
 /************ GALLERY *************/
-if($page->id() == "gallery" || $page->parent() == "gallery"): ?>
+if($page->id() == "works" || $page->parent() == "works"): ?>
 
 <?php
 
 $gallery_pages = $pages
-->get("gallery")
+->get("works")
 ->children()
 ->sortBy('artwork_year', 'desc');
 
@@ -39,10 +39,10 @@ if($tag = param('year')) {
 ?>
 
 <ul class="submenu gallery_years">
-    <li><a class="gallery_year <?= $selected ? "active" : "" ?>" href="<?= $pages->get("gallery")->url()?>/selected:true">Selected</a></li>
+    <li><a class="gallery_year <?= $selected ? "active" : "" ?>" href="<?= $pages->get("works")->url()?>/selected:true">Selected</a></li>
     <?php foreach($unique_years as $year): ?>
         <?php $classtext = $year == $thisyear ? "active" : "" ?>
-        <li><a class="gallery_year <?= $classtext?>" href="<?= $pages->get("gallery")->url()?>/year:<?= $year ?>"><?=$year?></a></li>
+         <li><a class="gallery_year <?= $classtext?>" href="<?= $pages->get("works")->url()?>/year:<?= $year ?>"><?=$year?></a></li>
     <?php endforeach ?>
 </ul>
 
