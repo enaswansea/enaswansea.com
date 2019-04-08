@@ -14,7 +14,7 @@ Done via `update_kirby.sh`. Sometimes this doesn't work. It may be because the `
 
 
 
-## Details/Templating
+## Config & Templates
 
 TL:DR for editing how it looks; `site/templates` and `assets/scss/default.scss`
 
@@ -42,4 +42,7 @@ Menu and other somewhat-reusable things are in in `snippets/`. Menu specifically
 CSS is done through Sass: `assets/scss/default.scss`.
 
 
+## Content
+
+Content is in `content/`. Things move around when you rename things, so git commit frequently.
 
