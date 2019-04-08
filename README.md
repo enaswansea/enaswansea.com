@@ -10,7 +10,7 @@ Admin interface is at `/panel`.
 
 #### Upgrading Kirby
 
-Done via `update_kirby.sh`. Sometimes this doesn't work. It may be because the `kirby/` folder is a git submodule; may have to pull/update that submodule.
+Done via `update_kirby.sh`. Sometimes this doesn't work. It may be because the `kirby/` folder is a git submodule; may have to pull/update that submodule with `git submodule update kirby/` 
 
 
 
