@@ -1,5 +1,13 @@
 <?php snippet('header') ?>
 
+<?php 
+
+$artworks = $page->text();
+
+print_r($page);
+?>
+
+
   <main class="main" role="main">
     
     <header class="wrap">

@@ -8,10 +8,18 @@ Cover-image-percentage: 100
 
 Text: 
 
+Snow,
+
 (image: 226snowinconnecticutforwebsite.jpg)
+
+Images of snow,
 
 (image: 227centralparkpondforwebsite.jpg)
 
+Snow,
+
 (image: 228intothetreesadjforwebsite.jpg)
+
+Images of snow.
 
 (image: 229sittingonnagataforwebsite.jpg)

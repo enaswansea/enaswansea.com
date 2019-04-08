@@ -1,1 +1,9 @@
+Alt: 
+
+----
+
+Caption: Caption, caption, caption goes here.
+
+----
+
 Template: captionedimage
