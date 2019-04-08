@@ -43,6 +43,10 @@ Menu and other somewhat-reusable things are in in `snippets/`. Menu specifically
 
 CSS is done through Sass: `assets/scss/default.scss`.
 
+#### Permissions
+
+Permissions are defined in `site/blueprints/users/editor.yml`.
+
 
 ## Content
 
