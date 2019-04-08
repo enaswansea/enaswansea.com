@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 <?php
-$biblio = page('biblio')->children()->visible();
+$biblio = page('bibliography')->children()->visible();
 ?>
 
   <main class="main" role="main">
